@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang='en'>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title> Chat Application</title>
+            <!-- Firebase -->
+        <!-- The core Firebase JS SDK is always required and must be listed first -->
+        <script src="https://www.gstatic.com/firebasejs/8.0.1/firebase.js"></script>
+        <!-- TODO: Add SDKs for Firebase products that you want to use
+             https://firebase.google.com/docs/web/setup#available-libraries -->
+        <script src="https://www.gstatic.com/firebasejs/8.0.1/firebase-analytics.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/6.5.0/firebase.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/6.5.0/firebase-auth.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/6.5.0/firebase-firestore.js"></script>  
+        <script src="https://www.gstatic.com/firebasejs/6.5.0/firebase-messaging.js"></script>  
+        <script src="https://www.gstatic.com/firebasejs/6.5.0/firebase-storage.js"></script>   
+        
+        <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+    </head>
+    <body>
+        <h1> Chat Application</h1>
+        <form id='contactForm' action='#'>
+            <fieldset>
+                <legend> Message </legend>
+                <span> Email: </span><input placeholder='Enter your email' id='email' required='' type="text"><br>
+                <span> Name: </span><input placeholder='Enter your name' id='name' required='' type="text"><br>
+                <span style='position: absolute'> Your Message:</span><br>
+                <textarea id='message' cols='50' rows ='8'> Enter you message </textarea>
+                <br>
+                <button id='btn' type="submit" onclick="sendMessage()"> Submit </button>
+            </fieldset>
+        </form>
+
+        <script src="app.js"></script>
+    <ul id='listcomment' style='width: 100%; border: 1px solid black; color: blue;'>
+        <span> Comments</span>    
+    </ul>
+    </body>
+</html>

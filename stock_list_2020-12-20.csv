@@ -1,0 +1,980 @@
+Code,Stock,Company,Sector,Market,Price,EPS,ROE,YoY,QoQ,ConQ,TopQ,RYoY,RQoQ,RConQ,RTopQ
+6947,DIGI,DIGI.COM BERHAD,Telecommunications & Media,Main Market,4.180,16.51,206.38,No,No,No,No,No,No,No,No
+0155,MGRC,MALAYSIAN GENOMICS RESOURCE CENTRE BERHAD,Health Care,Ace Market,0.860,15.75,172.86,Yes,No,No,No,No,No,No,No
+2836,CARLSBG,CARLSBERG BREWERY MALAYSIA BERHAD,Consumer Products & Services,Main Market,23.000,63.20,137.39,No,No,No,No,No,No,No,No
+0829EB,CHINAETF-USD,TRADEPLUS S&P NEW CHINA TRACKER-USD,ETF-Equity,ETF,1.980,240.84,112.28,No,No,No,No,No,No,No,No
+5835,DOLMITE,DOLOMITE CORPORATION BERHAD,Industrial Products & Services,Main Market,0.110,12.70,97.68,Yes,Yes,No,Yes,Yes,No,No,No
+4707,NESTLE,NESTLE (MALAYSIA) BERHAD,Consumer Products & Services,Main Market,140.900,235.41,93.05,No,No,No,No,No,No,No,No
+7113,TOPGLOV,TOP GLOVE CORPORATION BHD,Health Care,Main Market,6.640,50.40,73.04,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+4162,BAT,BRITISH AMERICAN TOBACCO (MALAYSIA) BERHAD,Consumer Products & Services,Main Market,14.360,92.10,72.52,No,No,No,No,No,No,No,No
+3255,HEIM,HEINEKEN MALAYSIA BERHAD,Consumer Products & Services,Main Market,22.900,63.29,64.58,No,No,No,No,No,No,No,No
+7106,SUPERMX,SUPERMAX CORPORATION BERHAD,Health Care,Main Market,6.840,47.43,57.84,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+6399,ASTRO,ASTRO MALAYSIA HOLDINGS BERHAD,Telecommunications & Media,Main Market,0.910,9.80,50.93,No,No,No,No,No,No,No,No
+3026,DLADY,DUTCH LADY MILK INDUSTRIES BERHAD,Consumer Products & Services,Main Market,37.520,124.80,46.40,No,No,No,No,Yes,Yes,No,Yes
+0830EA,FANG-2XL,TRADEPLUS NYSE FANG+ DAILY (2X) LEVERAGED TRACKER,None,None,11.040,793.20,42.64,No,No,No,Yes,No,No,No,Yes
+0163,CAREPLS,CAREPLUS GROUP BERHAD,Health Care,Ace Market,2.420,14.72,42.57,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+7100,UCHITEC,UCHI TECHNOLOGIES BERHAD,Industrial Products & Services,Main Market,2.650,15.77,40.45,No,No,No,Yes,No,No,No,No
+03023,SMILE,SMILE-LINK HEALTHCARE GLOBAL BERHAD,Health Care,Leap Market,0.175,1.91,40.39,No,No,No,No,No,No,No,No
+1818,BURSA,BURSA MALAYSIA BERHAD,Financial Services,Main Market,8.800,39.36,40.17,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+5250,SEM,7-ELEVEN MALAYSIA HOLDINGS BERHAD,Consumer Products & Services,Main Market,1.320,2.97,40.01,No,No,No,No,Yes,Yes,Yes,Yes
+03010,MYKRIS,MYKRIS INTERNATIONAL BERHAD,Telecomunications & Media,Leap Market,0.610,6.32,39.48,No,Yes,No,No,No,Yes,No,No
+0150,FINTEC,FINTEC GLOBAL BERHAD,Financial Services,Ace Market,0.100,34.92,38.05,Yes,Yes,No,Yes,Yes,Yes,No,No
+1724,PARAMON,PARAMOUNT CORPORATION BERHAD,Property,Main Market,0.865,84.98,36.79,Yes,No,No,No,No,No,No,No
+03036,RPLANET,REDPLANET BERHAD,Technology,Leap Market,0.325,3.37,36.11,No,No,No,No,No,No,No,No
+5105,CANONE,CAN-ONE BERHAD,Industrial Products & Services,Main Market,2.880,330.49,36.08,No,No,No,No,No,No,No,No
+2127,COMFORT,COMFORT GLOVES BERHAD,Industrial Products & Services,Main Market,3.340,27.40,35.58,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+9792,SEG,SEG INTERNATIONAL BHD,Consumer Products & Services,Main Market,0.630,3.25,34.20,No,No,No,No,No,No,No,No
+03025,ENEST,ENEST GROUP BERHAD,Consumer Products & Services,Leap Market,0.130,1.07,33.17,No,No,No,No,No,No,No,No
+0208,GREATEC,GREATECH TECHNOLOGY BERHAD,Technology,Ace Market,8.330,12.35,30.34,No,Yes,No,Yes,No,Yes,No,Yes
+7501,HARNLEN,HARN LEN CORPORATION BHD,Plantation,Main Market,0.700,49.41,29.95,Yes,Yes,No,Yes,Yes,Yes,No,No
+5168,HARTA,HARTALEGA HOLDINGS BERHAD,Health Care,Main Market,12.360,29.22,29.51,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+5292,UWC,UWC BERHAD,Technology,Main Market,9.590,12.41,28.85,No,Yes,Yes,Yes,No,Yes,Yes,Yes
+0138,MYEG,MY E.G. SERVICES BERHAD,Technology,Main Market,1.980,7.13,28.83,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+0126,MICROLN,MICROLINK SOLUTIONS BERHAD,Technology,Ace Market,2.150,7.16,28.66,Yes,Yes,No,Yes,Yes,No,No,No
+03017,UNIWALL,UNI WALL APS HOLDINGS BERHAD,Construction,Leap Market,0.770,1.98,28.31,No,No,No,No,No,No,No,No
+03005,MHCARE,METRO HEALTHCARE BERHAD,Health Care,Leap Market,1.080,2.66,28.03,No,No,No,Yes,No,Yes,No,No
+5136,COMPLET,COMPLETE LOGISTIC SERVICES BERHAD,Transportation & Logistics,Main Market,0.680,34.74,27.57,Yes,No,No,No,No,No,No,No
+5024,HUPSENG,HUP SENG INDUSTRIES BERHAD,Consumer Products & Services,Main Market,0.945,4.80,26.69,No,No,No,No,Yes,Yes,No,No
+03003,JMEDU,JM EDUCATION GROUP BERHAD,Consumer Products & Services,Leap Market,0.450,4.01,26.26,No,No,No,No,No,No,No,No
+03008,SLIC,SL INNOVATION CAPITAL BERHAD,Technology,Leap Market,0.405,2.58,25.79,No,No,No,No,No,Yes,No,No
+7231,WELLCAL,WELLCALL HOLDINGS BERHAD,Industrial Products & Services,Main Market,1.050,5.90,24.26,No,No,No,No,No,No,No,No
+6351,AMWAY,AMWAY (MALAYSIA) HOLDINGS BERHAD,Consumer Products & Services,Main Market,5.830,32.89,23.66,No,No,No,No,Yes,Yes,No,Yes
+5246,WPRTS,WESTPORTS HOLDINGS BERHAD,Transportation & Logistics,Main Market,4.280,18.08,23.13,Yes,No,No,Yes,Yes,No,No,Yes
+0106,REXIT,REXIT BERHAD,Technology,Ace Market,0.905,5.28,22.95,Yes,Yes,No,No,Yes,Yes,No,No
+5614,ILB,INTEGRATED LOGISTICS BHD,Transportation & Logistics,Main Market,0.565,25.07,22.43,Yes,No,No,No,No,No,No,No
+6139,TAKAFUL,SYARIKAT TAKAFUL MALAYSIA KELUARGA BERHAD,Financial Services,Main Market,4.800,40.27,22.25,No,No,No,No,No,No,No,No
+7181,ARBB,ARB BERHAD,Technology,Main Market,0.270,8.13,21.97,Yes,No,No,No,Yes,Yes,No,Yes
+03027,MMIS,MMIS BERHAD,Industrial Products & Services,Leap Market,0.270,0.93,21.82,No,No,No,No,No,No,No,Yes
+5296,MRDIY,MR D.I.Y. GROUP (M) BERHAD,Consumer Products & Services,Main Market,3.200,7.23,21.19,No,No,No,Yes,No,No,No,Yes
+7233,DUFU,DUFU TECHNOLOGY CORP. BERHAD,Industrial Products & Services,Main Market,3.160,9.72,21.12,Yes,No,No,No,Yes,Yes,No,No
+0099,SCICOM,SCICOM (MSC) BERHAD,Industrial Products & Services,Main Market,0.910,6.30,21.01,Yes,No,No,Yes,Yes,Yes,No,Yes
+5151,HEXTAR,HEXTAR GLOBAL BERHAD,Industrial Products & Services,Main Market,0.830,4.97,20.71,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+0198,GDB,GDB HOLDINGS BERHAD,Construction,Main Market,0.980,4.02,20.10,No,No,No,No,Yes,No,No,No
+6012,MAXIS,MAXIS BERHAD,Telecommunications & Media,Main Market,5.010,18.16,19.96,No,No,No,No,Yes,No,No,No
+03006,NPS,NOVA PHARMA SOLUTIONS BERHAD,Health Care,Leap Market,0.230,1.30,19.95,No,No,No,No,No,No,No,No
+5209,GASMSIA,GAS MALAYSIA BERHAD,Utilities,Main Market,2.600,15.68,19.93,Yes,No,No,No,No,No,No,No
+6645,LITRAK,LINGKARAN TRANS KOTA HOLDINGS BERHAD,Transportation & Logistics,Main Market,4.110,41.84,19.79,No,No,No,No,No,No,No,No
+7089,LIIHEN,LII HEN INDUSTRIES BHD.,Consumer Products & Services,Main Market,3.930,44.05,19.41,Yes,No,No,Yes,Yes,No,No,Yes
+6874,KUB,KUB MALAYSIA BERHAD,Industrial Products & Services,Main Market,0.605,13.23,19.17,Yes,Yes,No,No,No,No,No,No
+03028,ACEINNO,ACE INNOVATE ASIA BERHAD,Industrial Products & Services,Leap Market,0.360,2.24,18.68,No,No,No,Yes,No,No,No,No
+8621,LPI,LPI CAPITAL BHD,Financial Services,Main Market,13.820,82.36,18.67,Yes,No,No,No,Yes,No,No,No
+8125,DAIBOCI,DAIBOCHI BERHAD,Industrial Products & Services,Main Market,2.680,15.09,18.63,Yes,Yes,No,No,Yes,Yes,No,No
+5102,GCB,GUAN CHONG BERHAD,Consumer Products & Services,Main Market,2.790,21.33,18.62,No,No,No,No,Yes,Yes,No,No
+0040,OPENSYS,OPENSYS (M) BERHAD,Technology,Ace Market,0.555,2.77,18.48,Yes,Yes,No,No,No,No,No,No
+0128,FRONTKN,FRONTKEN CORPORATION BERHAD,Technology,Main Market,3.400,7.30,18.24,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+0213,MTAG,MTAG GROUP BERHAD,Industrial Products & Services,Ace Market,0.725,5.06,18.07,No,No,No,Yes,No,No,No,Yes
+03035,CTIB,COSMOS TECHNOLOGY INTERNATIONAL BERHAD,Industrial Products & Services,Leap Market,0.400,3.40,17.97,No,No,No,Yes,No,No,No,Yes
+5279,SERBADK,SERBA DINAMIK HOLDINGS BERHAD,Energy,Main Market,1.730,16.83,17.90,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+1562,BJTOTO,BERJAYA SPORTS TOTO BERHAD,Consumer Products & Services,Main Market,2.260,10.00,17.55,No,No,No,No,No,No,No,No
+5216,DSONIC,DATASONIC GROUP BERHAD,Technology,Main Market,0.560,1.66,17.43,No,No,No,No,No,No,No,No
+5147,SAMCHEM,SAMCHEM HOLDINGS BERHAD,Industrial Products & Services,Main Market,1.130,10.84,17.21,Yes,Yes,No,Yes,Yes,No,No,No
+7087,MAGNI,MAGNI-TECH INDUSTRIES BERHAD,Consumer Products & Services,Main Market,2.300,25.12,16.97,No,No,No,No,No,No,No,No
+03018,SUPREME,SUPREME CONSOLIDATED RESOURCES BERHAD,Consumer Products & Services,Leap Market,0.625,10.40,16.91,No,No,No,No,No,No,No,No
+0097,VITROX,VITROX CORPORATION BERHAD,Technology,Main Market,14.420,19.38,16.79,Yes,No,Yes,Yes,Yes,Yes,No,Yes
+5163,SEB,SEREMBAN ENGINEERING BERHAD,Industrial Products & Services,Main Market,0.725,4.68,16.70,Yes,Yes,No,No,Yes,No,No,No
+9237,SCIB,SARAWAK CONSOLIDATED INDUSTRIES BERHAD,Industrial Products & Services,Main Market,5.700,18.40,16.58,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+7237,PWROOT,POWER ROOT BERHAD,Consumer Products & Services,Main Market,2.030,10.60,16.56,Yes,No,No,No,No,No,No,No
+7022,GTRONIC,GLOBETRONICS TECHNOLOGY BERHAD,Technology,Main Market,2.700,7.24,16.46,No,No,No,No,No,No,No,No
+0221,TCS,TCS GROUP HOLDINGS BERHAD,Construction,Ace Market,0.555,4.14,16.33,No,No,No,Yes,No,No,No,Yes
+7145,AGES,AGESON BERHAD,Construction,Main Market,0.145,4.15,15.97,Yes,No,No,No,No,Yes,No,No
+6033,PETGAS,PETRONAS GAS BERHAD,Utilities,Main Market,17.300,100.65,15.95,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+8303,LOTUS,LOTUS KFM BERHAD,Consumer Products & Services,Main Market,0.255,1.27,15.93,No,No,No,No,No,No,No,No
+3069,MFCB,MEGA FIRST CORPORATION BERHAD,Utilities,Main Market,6.910,63.02,15.83,Yes,Yes,No,Yes,Yes,Yes,No,No
+7153,KOSSAN,KOSSAN RUBBER INDUSTRIES BERHAD,Health Care,Main Market,5.130,23.68,15.71,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+5139,AEONCR,AEON CREDIT SERVICE (M) BERHAD,Financial Services,Main Market,12.080,92.60,15.51,No,No,No,No,Yes,No,No,No
+3689,F&N,FRASER & NEAVE HOLDINGS BHD,Consumer Products & Services,Main Market,32.800,111.89,15.24,Yes,No,No,No,No,No,No,No
+5277,FPGROUP,FOUNDPAC GROUP BERHAD,Industrial Products & Services,Main Market,0.930,2.78,15.19,Yes,No,No,No,Yes,No,No,No
+9172,FPI,FORMOSA PROSONIC INDUSTRIES BERHAD,Consumer Products & Services,Main Market,2.220,19.69,15.15,Yes,No,No,Yes,No,No,No,Yes
+4731,SCIENTX,SCIENTEX BERHAD,Industrial Products & Services,Main Market,12.160,77.72,15.09,Yes,Yes,No,No,Yes,No,No,No
+9296,RCECAP,RCE CAPITAL BERHAD,Financial Services,Main Market,2.400,30.29,15.07,Yes,No,No,Yes,Yes,No,No,Yes
+0201,NOVA,NOVA WELLNESS GROUP BERHAD,Health Care,Ace Market,0.885,4.36,15.05,Yes,No,No,No,Yes,Yes,No,No
+2828,CIHLDG,C.I. HOLDINGS BERHAD,Consumer Products & Services,Main Market,1.810,22.34,14.89,Yes,Yes,No,Yes,Yes,Yes,No,No
+03024,CETECH,CE TECHNOLOGY BERHAD,Industrial Products & Services,Leap Market,0.750,2.21,14.74,No,No,No,Yes,No,No,No,Yes
+7062,KHIND,KHIND HOLDINGS BERHAD,Consumer Products & Services,Main Market,3.050,56.70,14.69,Yes,Yes,No,No,Yes,Yes,No,Yes
+5286,MI,MI TECHNOVATION BERHAD,Technology,Main Market,3.700,7.77,14.67,Yes,No,No,No,Yes,Yes,No,No
+5295,INNATURE,INNATURE BERHAD,Consumer Products & Services,Main Market,0.520,2.89,14.67,No,No,No,No,No,No,No,No
+4316,SHCHAN,SIN HENG CHAN (MALAYA) BERHAD,Plantation,Main Market,0.510,6.57,14.61,Yes,No,No,No,Yes,Yes,No,No
+7160,PENTA,PENTAMASTER CORPORATION BERHAD,Technology,Main Market,4.990,10.01,14.60,No,No,No,No,No,No,No,No
+3034,HAPSENG,HAP SENG CONSOLIDATED BERHAD,Industrial Products & Services,Main Market,8.430,43.39,14.41,Yes,No,No,No,No,No,No,No
+7293,YINSON,YINSON HOLDINGS BERHAD,Energy,Main Market,5.530,24.20,14.40,Yes,No,No,Yes,Yes,Yes,No,No
+5100,BPPLAS,BP PLASTICS HOLDING BHD,Industrial Products & Services,Main Market,1.440,15.50,14.35,Yes,Yes,No,No,No,No,No,No
+7277,DIALOG,DIALOG GROUP BERHAD,Energy,Main Market,3.380,10.85,14.31,Yes,No,No,No,No,No,No,No
+5169,HOHUP,HO HUP CONSTRUCTION COMPANY BHD,Construction,Main Market,0.490,16.31,14.31,Yes,No,No,No,No,No,No,No
+0011,BTECH,BRITE-TECH BERHAD,Utilities,Ace Market,0.525,3.37,14.04,Yes,Yes,No,No,No,No,No,No
+0166,INARI,INARI AMERTRON BERHAD,Technology,Main Market,2.590,5.40,14.04,No,No,No,Yes,No,No,No,Yes
+8079,LEESK,LEE SWEE KIAT GROUP BERHAD,Consumer Products & Services,Main Market,0.945,4.87,13.90,No,No,No,Yes,No,No,No,Yes
+0002,KOTRA,KOTRA INDUSTRIES BERHAD,Health Care,Main Market,2.990,18.18,13.88,Yes,No,No,No,Yes,No,No,No
+5181,SIGGAS,SIG GASES BERHAD,Industrial Products & Services,Main Market,0.090,7.47,13.84,Yes,No,No,No,No,No,No,No
+03013,TOPVISN,TOPVISION EYE SPECIALIST BERHAD,Health Care,Leap Market,0.745,1.04,13.73,No,No,No,No,No,No,No,No
+7152,JAYCORP,JAYCORP BERHAD,Consumer Products & Services,Main Market,1.660,17.98,13.72,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+0157,FOCUSP,FOCUS POINT HOLDINGS BERHAD,Consumer Products & Services,Ace Market,0.885,4.52,13.68,Yes,No,No,Yes,No,No,No,No
+2089,UTDPLT,UNITED PLANTATIONS BERHAD,Plantation,Main Market,14.420,86.55,13.59,Yes,Yes,No,No,No,No,No,No
+0215,SLVEST,SOLARVEST HOLDINGS BERHAD,Industrial Products & Services,Ace Market,1.930,2.98,13.56,No,Yes,No,Yes,No,No,No,No
+5236,MATRIX,MATRIX CONCEPTS HOLDINGS BERHAD,Property,Main Market,1.830,27.21,13.47,No,No,No,Yes,Yes,No,No,No
+03001,CLOUD,CLOUDARON GROUP BERHAD,Technology,Leap Market,0.020,1.22,13.33,No,No,No,No,No,No,No,No
+7247,SCGM,SCGM BHD,Industrial Products & Services,Main Market,2.430,12.06,13.23,Yes,Yes,No,Yes,No,No,No,Yes
+03032,ASTRA,ASTRAMINA GROUP BERHAD,Consumer Products & Services,Leap Market,0.370,3.41,13.13,No,No,No,Yes,No,No,No,Yes
+7155,SKPRES,SKP RESOURCES BHD,Industrial Products & Services,Main Market,2.030,6.91,13.04,No,No,No,Yes,Yes,Yes,No,Yes
+3719,PANAMY,PANASONIC MANUFACTURING MALAYSIA BERHAD,Consumer Products & Services,Main Market,31.600,159.01,13.00,No,No,No,Yes,No,No,No,Yes
+5143,LUXCHEM,LUXCHEM CORPORATION BERHAD,Industrial Products & Services,Main Market,0.780,4.61,12.82,Yes,No,No,Yes,No,No,No,No
+5274,HLCAP,HONG LEONG CAPITAL BERHAD,Financial Services,Main Market,6.400,46.99,12.74,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+5248,BAUTO,BERMAZ AUTO BERHAD,Consumer Products & Services,Main Market,1.380,5.47,12.71,No,No,No,No,No,No,No,No
+8176,ATAIMS,ATA IMS BERHAD,Industrial Products & Services,Main Market,2.320,7.70,12.63,No,No,No,Yes,Yes,No,No,Yes
+7047,FAJAR,FAJARBARU BUILDER GROUP BHD,Construction,Main Market,0.525,10.82,12.51,No,No,No,No,No,No,No,No
+1481,ASB,ADVANCE SYNERGY BERHAD,Consumer Products & Services,Main Market,0.150,5.98,12.47,Yes,No,No,No,No,No,No,No
+9466,KKB,KKB ENGINEERING BERHAD,Industrial Products & Services,Main Market,1.690,16.48,12.39,Yes,No,No,No,No,No,No,No
+1163,ALLIANZ,ALLIANZ MALAYSIA BERHAD,Financial Services,Main Market,14.680,287.97,12.36,Yes,No,No,No,Yes,No,No,Yes
+7130,KPOWER,KPOWER BERHAD,Consumer Products & Services,Main Market,6.080,17.68,12.28,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+7167,JOHOTIN,JOHORE TIN BERHAD,Consumer Products & Services,Main Market,2.030,14.24,12.27,No,Yes,No,Yes,No,No,No,No
+0829EA,CHINAETF-MYR,TRADEPLUS S&P NEW CHINA TRACKER-MYR,ETF-Equity,ETF,8.020,112.50,12.24,No,No,No,No,No,No,No,No
+6971,KOBAY,KOBAY TECHNOLOGY BERHAD,Industrial Products & Services,Main Market,2.400,24.33,12.23,Yes,Yes,No,No,Yes,No,No,No
+5263,SUNCON,SUNWAY CONSTRUCTION GROUP BERHAD,Construction,Main Market,1.900,5.74,12.21,No,No,No,No,No,No,No,No
+7090,AHEALTH,APEX HEALTHCARE BERHAD,Health Care,Main Market,3.600,11.71,12.20,Yes,No,No,No,Yes,No,No,No
+5077,MAYBULK,MALAYSIAN BULK CARRIERS BERHAD,Transportation & Logistics,Main Market,0.575,4.07,12.19,No,No,No,No,No,No,No,No
+5028,HTPADU,HEITECH PADU BERHAD,Technology,Main Market,1.670,14.13,12.18,Yes,Yes,No,No,No,No,No,No
+8923,JIANKUN,JIANKUN INTERNATIONAL BERHAD,Property,Main Market,0.575,4.37,12.13,Yes,No,No,No,Yes,No,No,Yes
+2658,AJI,AJINOMOTO (MALAYSIA) BERHAD,Consumer Products & Services,Main Market,15.480,98.08,12.06,Yes,No,No,No,No,No,No,No
+5272,RANHILL,RANHILL UTILITIES BERHAD,Utilities,Main Market,0.875,6.55,11.91,Yes,No,No,No,No,No,No,No
+7035,CCK,CCK CONSOLIDATED HOLDINGS BERHAD,Consumer Products & Services,Main Market,0.635,5.48,11.90,No,No,No,No,No,No,No,No
+8869,PMETAL,PRESS METAL ALUMINIUM HOLDINGS BERHAD,Industrial Products & Services,Main Market,8.050,11.05,11.88,No,No,No,No,No,No,No,No
+7668,HAIO,HAI-O ENTERPRISE BERHAD,Consumer Products & Services,Main Market,2.320,12.58,11.87,No,Yes,Yes,No,No,No,No,No
+9598,PTARAS,PINTARAS JAYA BHD,Construction,Main Market,2.820,23.31,11.54,Yes,No,No,No,No,No,No,No
+03012,BABA,BABA ECO GROUP BERHAD,Consumer Products & Services,Leap Market,0.170,2.19,11.39,No,No,No,No,No,No,No,No
+5276,DANCO,DANCOMECH HOLDINGS BERHAD,Industrial Products & Services,Main Market,0.635,4.96,11.26,No,No,No,Yes,Yes,Yes,Yes,Yes
+8966,PRLEXUS,PROLEXUS BERHAD,Consumer Products & Services,Main Market,1.350,16.80,11.20,Yes,No,No,No,No,No,No,No
+1295,PBBANK,PUBLIC BANK BERHAD,Financial Services,Main Market,20.640,132.13,11.13,No,No,No,No,No,No,No,No
+7205,COCOLND,COCOALAND HOLDINGS BERHAD,Consumer Products & Services,Main Market,1.760,12.91,11.13,No,No,No,No,No,No,No,No
+0146,JFTECH,JF TECHNOLOGY BERHAD,Technology,Ace Market,4.490,4.42,11.10,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+7198,DPS,DPS RESOURCES BERHAD,Property,Main Market,0.125,2.44,11.10,Yes,Yes,No,No,Yes,Yes,No,Yes
+0036,KGROUP,KEY ALLIANCE GROUP BERHAD,Technology,Ace Market,0.055,1.41,11.07,Yes,Yes,No,Yes,Yes,Yes,No,No
+0100,ESCERAM,ES CERAMICS TECHNOLOGY BHD,Industrial Products & Services,Ace Market,0.495,1.65,11.01,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+0084,TECFAST,TECHFAST HOLDINGS BERHAD,Industrial Products & Services,Ace Market,0.470,1.33,10.92,Yes,No,No,No,No,No,No,No
+6262,INNO,INNOPRISE PLANTATIONS BERHAD,Plantation,Main Market,1.130,7.64,10.91,Yes,Yes,No,Yes,Yes,Yes,No,No
+9822,SAM,SAM ENGINEERING & EQUIPMENT (M) BERHAD,Industrial Products & Services,Main Market,7.350,47.17,10.82,No,No,No,No,Yes,No,No,No
+0151,KGB,KELINGTON GROUP BERHAD,Industrial Products & Services,Main Market,1.640,5.38,10.73,No,No,No,No,No,No,No,No
+3867,MPI,MALAYSIAN PACIFIC INDUSTRIES BERHAD,Technology,Main Market,24.600,81.71,10.70,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+7180,SERNKOU,SERN KOU RESOURCES BERHAD,Consumer Products & Services,Main Market,1.850,6.90,10.62,Yes,No,No,Yes,Yes,Yes,No,Yes
+5162,VSTECS,VSTECS BERHAD,Technology,Main Market,2.030,19.24,10.52,Yes,Yes,No,No,Yes,Yes,No,No
+5031,TIMECOM,TIME DOTCOM BERHAD,Telecommunications & Media,Main Market,13.360,51.15,10.48,No,No,No,No,Yes,Yes,No,Yes
+9954,RGTBHD,RGT BERHAD,Industrial Products & Services,Main Market,0.605,1.26,10.48,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+5258,BIMB,BIMB HOLDINGS BERHAD,Financial Services,Main Market,4.410,37.87,10.40,No,No,No,No,Yes,No,No,No
+5084,IBRACO,IBRACO BERHAD,Property,Main Market,0.535,8.00,10.39,Yes,No,No,No,Yes,No,No,No
+5184,CYPARK,CYPARK RESOURCES BERHAD,Industrial Products & Services,Main Market,1.270,18.11,10.35,No,No,No,No,No,No,No,No
+5106,AXREIT,AXIS REAL ESTATE INVESTMENT TRUST,Real Estate Investment Trusts,Main Market,2.110,15.27,10.30,Yes,Yes,No,No,Yes,Yes,Yes,No
+4863,TM,TELEKOM MALAYSIA BERHAD,Telecommunications & Media,Main Market,5.410,18.70,10.26,No,Yes,Yes,Yes,No,No,No,No
+03016,CRG,CRG INCORPORATED BERHAD,Consumer Products & Services,Leap Market,0.075,0.91,10.17,No,No,No,No,No,No,No,No
+2755,FCW,FCW HOLDINGS BERHAD,Consumer Products & Services,Main Market,1.010,6.91,10.16,Yes,No,No,No,No,No,No,No
+0127,JHM,JHM CONSOLIDATION BERHAD,Technology,Main Market,1.830,3.78,9.95,No,No,No,No,No,No,No,Yes
+2283,ZELAN,ZELAN BERHAD,Construction,Main Market,0.110,0.60,9.93,Yes,No,No,No,No,No,No,No
+5255,ICON,ICON OFFSHORE BERHAD,Energy,Main Market,0.120,1.32,9.93,Yes,Yes,No,No,Yes,No,No,No
+5042,TSRCAP,TSR CAPITAL BERHAD,Construction,Main Market,0.290,9.78,9.88,Yes,No,No,No,No,No,No,No
+0205,DPIH,DPI HOLDINGS BERHAD,Consumer Products & Services,Ace Market,0.300,1.58,9.87,Yes,No,No,Yes,Yes,No,No,Yes
+5126,SOP,SARAWAK OIL PALMS BERHAD,Plantation,Main Market,4.030,40.68,9.85,Yes,Yes,No,Yes,No,No,No,No
+0220,OVH,OCEAN VANTAGE HOLDINGS BERHAD,Energy,Ace Market,0.475,1.57,9.80,No,No,No,No,No,No,No,No
+9075,THETA,THETA EDGE BERHAD,Technology,Main Market,0.470,6.14,9.75,Yes,Yes,No,No,Yes,Yes,No,No
+7052,PADINI,PADINI HOLDINGS BERHAD,Consumer Products & Services,Main Market,3.000,11.59,9.74,No,No,No,No,No,No,No,No
+7439,TECGUAN,TECK GUAN PERDANA BERHAD,Consumer Products & Services,Main Market,1.470,14.29,9.72,No,Yes,No,No,Yes,Yes,No,Yes
+5160,HOMERIZ,HOMERITZ CORPORATION BERHAD,Consumer Products & Services,Main Market,0.665,5.73,9.71,Yes,No,No,No,Yes,No,No,Yes
+7088,POHUAT,POH HUAT RESOURCES HOLDINGS BERHAD,Consumer Products & Services,Main Market,1.790,16.05,9.64,No,No,No,No,No,No,No,No
+0210,KHJB,KIM HIN JOO (MALAYSIA) BERHAD,Consumer Products & Services,Ace Market,0.235,1.91,9.48,No,No,No,No,No,No,No,No
+7230,TOMEI,TOMEI CONSOLIDATED BERHAD,Consumer Products & Services,Main Market,0.845,16.00,9.47,Yes,Yes,No,Yes,No,No,No,Yes
+5208,EITA,EITA RESOURCES BERHAD,Industrial Products & Services,Main Market,1.970,13.30,9.37,No,No,No,No,No,No,No,No
+7029,MASTER,MASTER-PACK GROUP BERHAD,Industrial Products & Services,Main Market,1.850,18.96,9.34,No,No,No,No,No,No,No,No
+0168,BOILERM,BOILERMECH HOLDINGS BERHAD,Industrial Products & Services,Main Market,1.060,3.91,9.30,No,No,No,No,No,No,No,No
+5027,KMLOONG,KIM LOONG RESOURCES BERHAD,Plantation,Main Market,1.570,7.69,9.26,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+7148,DPHARMA,DUOPHARMA BIOTECH BERHAD,Health Care,Main Market,3.660,7.71,9.18,Yes,No,No,No,Yes,No,No,No
+03033,SGBHD,SUPERGENICS BERHAD,Industrial Products & Services,Leap Market,0.300,1.30,9.13,No,No,No,No,No,No,No,No
+5135,SWKPLNT,SARAWAK PLANTATION BERHAD,Plantation,Main Market,2.280,19.07,9.13,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+4022,MAXIM,MAXIM GLOBAL BERHAD,Property,Main Market,0.325,5.18,9.02,Yes,No,No,Yes,Yes,No,No,No
+5029,FAREAST,FAR EAST HOLDINGS BERHAD,Plantation,Main Market,2.850,17.57,9.01,Yes,Yes,No,No,Yes,Yes,No,Yes
+7803,RUBEREX,RUBBEREX CORPORATION (M) BERHAD,Industrial Products & Services,Main Market,1.540,9.09,9.00,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+1082,HLFG,HONG LEONG FINANCIAL GROUP BERHAD,Financial Services,Main Market,18.560,170.31,8.96,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+7161,KERJAYA,KERJAYA PROSPEK GROUP BERHAD,Construction,Main Market,1.080,7.97,8.96,No,No,No,No,No,No,No,No
+1155,MAYBANK,MALAYAN BANKING BERHAD,Financial Services,Main Market,8.460,65.77,8.88,No,No,No,No,No,No,No,No
+0200,REVENUE,REVENUE GROUP BERHAD,Technology,Ace Market,1.260,1.69,8.87,No,No,No,No,Yes,Yes,No,No
+6815,EUPE,EUPE CORPORATION BERHAD,Property,Main Market,0.750,25.55,8.87,No,No,No,Yes,No,No,No,Yes
+0188,HLT,HLT GLOBAL BERHAD,Industrial Products & Services,Ace Market,1.150,1.24,8.84,Yes,No,No,No,Yes,Yes,No,Yes
+7248,SLP,SLP RESOURCES BERHAD,Industrial Products & Services,Main Market,0.965,5.16,8.82,No,No,Yes,No,No,No,No,No
+5200,UOADEV,UOA DEVELOPMENT BHD,Property,Main Market,1.740,22.07,8.72,Yes,No,No,Yes,No,No,No,No
+0193,KAB,KEJURUTERAAN ASASTERA BERHAD,Industrial Products & Services,Main Market,1.030,0.70,8.72,No,No,No,No,Yes,No,No,No
+5006,STELLA,STELLA HOLDINGS BERHAD,Construction,Main Market,0.800,6.17,8.70,Yes,Yes,No,No,No,No,No,No
+0216,SPRING,SPRING ART HOLDINGS BERHAD,Consumer Products & Services,Ace Market,0.350,1.47,8.66,No,No,No,No,No,Yes,No,Yes
+5878,KPJ,KPJ HEALTHCARE BERHAD,Health Care,Main Market,1.000,3.81,8.65,No,No,No,No,No,No,No,No
+3301,HLIND,HONG LEONG INDUSTRIES BERHAD,Consumer Products & Services,Main Market,8.690,47.81,8.63,No,No,No,No,No,No,No,No
+0001,SCOMNET,SUPERCOMNET TECHNOLOGIES BERHAD,Industrial Products & Services,Ace Market,2.000,2.92,8.59,Yes,Yes,No,No,Yes,Yes,No,Yes
+7204,D&O,D&O GREEN TECHNOLOGIES BERHAD,Technology,Main Market,1.860,2.88,8.59,No,No,No,Yes,Yes,No,No,Yes
+7225,PA,P.A. RESOURCES BERHAD,Industrial Products & Services,Main Market,0.175,0.53,8.57,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+0018,LAMBO,LAMBO GROUP BERHAD,Technology,Ace Market,0.035,0.56,8.55,Yes,No,No,Yes,No,No,No,No
+5819,HLBANK,HONG LEONG BANK BERHAD,Financial Services,Main Market,18.580,116.94,8.53,No,No,No,Yes,Yes,Yes,No,Yes
+0012,3A,THREE-A RESOURCES BERHAD,Consumer Products & Services,Main Market,0.920,6.38,8.52,Yes,Yes,No,No,No,No,No,No
+7031,AMTEL,AMTEL HOLDINGS BERHAD,Telecommunications & Media,Main Market,1.810,8.21,8.38,Yes,No,No,No,No,No,No,Yes
+0065,EFORCE,EXCEL FORCE MSC BERHAD,Technology,Main Market,0.470,1.40,8.21,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+5032,BIPORT,BINTULU PORT HOLDINGS BERHAD,Transportation & Logistics,Main Market,3.880,24.32,8.16,No,No,No,No,No,No,No,No
+5141,DAYANG,DAYANG ENTERPRISE HOLDINGS BERHAD,Energy,Main Market,1.230,11.56,8.14,No,No,No,No,No,No,No,No
+0069,VIVOCOM,VIVOCOM INTL HOLDINGS BERHAD,Technology,Ace Market,0.705,0.65,8.13,Yes,No,No,No,Yes,Yes,No,No
+1066,RHBBANK,RHB BANK BERHAD,Financial Services,Main Market,5.390,55.23,8.11,No,No,No,No,No,No,No,No
+5219,PESTECH,PESTECH INTERNATIONAL BERHAD,Industrial Products & Services,Main Market,0.905,6.65,8.03,No,No,No,No,Yes,Yes,No,No
+1961,IOICORP,IOI CORPORATION BERHAD,Plantation,Main Market,4.400,11.61,7.90,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+5152,MBL,MUAR BAN LEE GROUP BERHAD,Industrial Products & Services,Main Market,0.610,5.76,7.89,No,No,No,No,Yes,No,No,Yes
+7216,KAWAN,KAWAN FOOD BERHAD,Consumer Products & Services,Main Market,1.970,7.37,7.84,Yes,Yes,No,No,Yes,Yes,No,No
+5008,HARISON,HARRISONS HOLDINGS (MALAYSIA) BERHAD,Consumer Products & Services,Main Market,3.900,36.97,7.80,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+0094,INIX,INIX TECHNOLOGIES HOLDINGS BERHAD,Technology,Ace Market,0.325,0.60,7.78,Yes,Yes,No,No,No,No,No,No
+7077,KPPROP,KERJAYA PROSPEK PROPERTY BERHAD,Property,Main Market,0.780,13.06,7.78,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+0222,OPTIMAX,OPTIMAX HOLDINGS BERHAD,Health Care,Ace Market,0.880,1.76,7.76,No,No,No,Yes,No,No,No,Yes
+0196,QES,QES GROUP BERHAD,Industrial Products & Services,Ace Market,0.290,1.00,7.70,Yes,Yes,No,No,No,No,No,No
+0108,N2N,N2N CONNECT BERHAD,Technology,Ace Market,0.750,3.68,7.66,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+5069,BLDPLNT,BLD PLANTATION BHD.,Plantation,Main Market,8.000,48.22,7.62,Yes,Yes,No,Yes,Yes,Yes,No,No
+8273,PPHB,PUBLIC PACKAGES HOLDINGS BHD,Industrial Products & Services,Main Market,1.040,10.51,7.56,No,No,No,Yes,No,No,No,No
+5066,NTPM,NTPM HOLDINGS BERHAD,Consumer Products & Services,Main Market,0.830,3.16,7.53,Yes,Yes,No,No,Yes,No,No,No
+5908,DKSH,DKSH HOLDINGS (MALAYSIA) BERHAD,Consumer Products & Services,Main Market,3.390,31.01,7.50,Yes,No,No,No,No,No,No,No
+0219,RL,RESERVOIR LINK ENERGY BHD,Energy,Ace Market,0.510,1.98,7.44,No,No,No,No,No,No,No,Yes
+7235,SUPERLN,SUPERLON HOLDINGS BERHAD,Industrial Products & Services,Main Market,1.010,6.23,7.43,Yes,Yes,No,No,No,No,No,No
+0023,IFCAMSC,IFCA MSC BERHAD,Technology,Ace Market,0.395,1.41,7.43,No,Yes,No,No,No,No,No,No
+0207,MESTRON,MESTRON HOLDINGS BERHAD,Industrial Products & Services,Ace Market,0.195,0.59,7.41,Yes,No,No,Yes,No,No,No,Yes
+6963,VS,V.S. INDUSTRY BERHAD,Industrial Products & Services,Main Market,2.560,7.11,7.41,No,Yes,No,Yes,No,No,No,No
+5289,TECHBND,TECHBOND GROUP BERHAD,Industrial Products & Services,Main Market,1.280,4.50,7.38,Yes,No,No,No,No,No,No,Yes
+0212,SDS,SDS GROUP BERHAD,Consumer Products & Services,Ace Market,0.255,1.25,7.38,No,No,No,Yes,No,No,No,No
+0209,ISTONE,I-STONE GROUP BERHAD,Technology,Ace Market,0.225,0.44,7.37,No,No,No,No,No,No,No,No
+7084,QL,QL RESOURCES BERHAD,Consumer Products & Services,Main Market,5.830,9.87,7.36,Yes,Yes,No,No,Yes,No,No,No
+0171,PLABS,PETERLABS HOLDINGS BERHAD,Consumer Products & Services,Ace Market,0.235,1.78,7.31,Yes,No,No,No,No,No,No,No
+5133,PENERGY,PETRA ENERGY BERHAD,Energy,Main Market,1.130,8.62,7.31,No,No,No,No,No,No,No,No
+5983,MBMR,MBM RESOURCES BHD,Consumer Products & Services,Main Market,3.370,32.76,7.30,No,No,No,No,No,No,No,Yes
+0090,ELSOFT,ELSOFT RESEARCH BERHAD,Technology,Main Market,0.620,1.17,7.29,No,No,No,No,No,No,No,No
+5293,AME,AME ELITE CONSORTIUM BERHAD,Construction,Main Market,2.220,10.85,7.28,No,No,No,No,No,No,No,Yes
+7091,UNIMECH,UNIMECH GROUP BERHAD,Industrial Products & Services,Main Market,1.330,13.15,7.26,No,No,No,No,No,No,No,No
+6483,KENANGA,KENANGA INVESTMENT BANK BERHAD,Financial Services,Main Market,0.930,9.89,7.22,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+5065,ORNA,ORNAPAPER BERHAD,Industrial Products & Services,Main Market,1.600,17.39,7.13,Yes,No,No,No,No,No,No,No
+2445,KLK,KUALA LUMPUR KEPONG BERHAD,Plantation,Main Market,24.080,71.47,7.12,Yes,Yes,No,No,Yes,Yes,No,No
+7162,ASTINO,ASTINO BERHAD,Industrial Products & Services,Main Market,0.860,10.82,7.12,Yes,Yes,No,Yes,No,No,No,Yes
+1996,KRETAM,KRETAM HOLDINGS BERHAD,Plantation,Main Market,0.550,1.95,7.09,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+5116,ALAQAR,AL-`AQAR HEALTHCARE REIT,Real Estate Investment Trusts,Main Market,1.350,9.31,7.07,No,No,No,No,No,No,No,No
+1899,BKAWAN,BATU KAWAN BERHAD,Plantation,Main Market,17.800,104.44,7.07,Yes,No,No,No,Yes,No,No,No
+4588,UMW,UMW HOLDINGS BERHAD,Consumer Products & Services,Main Market,3.460,22.91,7.05,No,No,No,No,No,No,No,No
+5131,ZHULIAN,ZHULIAN CORPORATION BERHAD,Consumer Products & Services,Main Market,1.620,9.20,7.03,No,No,No,No,No,No,No,No
+5053,OSK,OSK HOLDINGS BERHAD,Property,Main Market,0.880,17.76,7.02,No,No,No,No,No,No,No,No
+7229,FAVCO,FAVELLE FAVCO BERHAD,Industrial Products & Services,Main Market,2.200,22.38,7.02,No,No,No,No,No,No,No,No
+5134,SAB,SOUTHERN ACIDS (M) BERHAD,Industrial Products & Services,Main Market,3.880,32.17,7.01,Yes,Yes,No,No,Yes,Yes,No,No
+0190,ESAFE,EVERSAFE RUBBER BERHAD,Industrial Products & Services,Ace Market,0.265,1.89,6.89,Yes,No,No,Yes,No,No,No,No
+2488,ABMB,ALLIANCE BANK MALAYSIA BERHAD,Financial Services,Main Market,2.900,28.44,6.87,Yes,No,No,No,Yes,No,No,Yes
+0192,INTA,INTA BINA GROUP BERHAD,Construction,Main Market,0.315,1.80,6.86,No,No,No,No,No,No,No,No
+5228,ELKDESA,ELK-DESA RESOURCES BERHAD,Financial Services,Main Market,1.440,9.79,6.85,No,No,No,Yes,Yes,No,No,No
+7076,CBIP,CB INDUSTRIAL PRODUCT HOLDING BERHAD,Industrial Products & Services,Main Market,1.100,10.01,6.81,Yes,Yes,No,No,Yes,Yes,No,No
+0136,GREENYB,GREENYIELD BERHAD,Consumer Products & Services,Main Market,0.190,1.18,6.81,Yes,Yes,No,No,No,No,No,No
+3514,MARCO,MARCO HOLDINGS BERHAD,Consumer Products & Services,Main Market,0.125,1.36,6.81,Yes,No,No,No,No,No,No,Yes
+5159,YOCB,YOONG ONN CORPORATION BERHAD,Consumer Products & Services,Main Market,0.915,10.25,6.79,No,No,No,No,No,No,No,No
+7107,OFI,ORIENTAL FOOD INDUSTRIES HOLDINGS BERHAD,Consumer Products & Services,Main Market,0.870,5.62,6.78,Yes,Yes,No,No,Yes,Yes,No,No
+5436,PERSTIM,PERUSAHAAN SADUR TIMAH MALAYSIA (PERSTIMA) BHD,Industrial Products & Services,Main Market,3.670,28.34,6.76,No,No,No,Yes,No,No,No,No
+5285,SIMEPLT,SIME DARBY PLANTATION BERHAD,Plantation,Main Market,5.080,13.32,6.76,Yes,Yes,No,No,Yes,Yes,No,No
+0008,WILLOW,WILLOWGLEN MSC BERHAD,Technology,Main Market,0.430,2.30,6.75,No,No,No,No,Yes,Yes,No,No
+0186,PTRANS,PERAK TRANSIT BERHAD,Consumer Products & Services,Main Market,0.270,2.09,6.71,Yes,No,No,Yes,No,No,No,Yes
+9113,ICONIC,ICONIC WORLDWIDE BERHAD,Consumer Products & Services,Main Market,0.505,2.48,6.71,Yes,No,No,No,Yes,No,No,Yes
+5827,OIB,ORIENTAL INTEREST BERHAD,Property,Main Market,1.860,20.21,6.67,No,No,No,No,No,No,No,No
+6939,FIAMMA,FIAMMA HOLDINGS BERHAD,Consumer Products & Services,Main Market,0.545,6.90,6.64,Yes,No,No,No,Yes,No,No,Yes
+0199,TRIMODE,TRI-MODE SYSTEM (M) BERHAD,Transportation & Logistics,Ace Market,0.505,3.02,6.56,Yes,Yes,No,No,Yes,No,No,No
+8443,HIL,HIL INDUSTRIES BERHAD,Industrial Products & Services,Main Market,1.150,7.09,6.50,Yes,No,No,Yes,No,No,No,Yes
+7103,SPRITZER,SPRITZER BHD,Consumer Products & Services,Main Market,2.020,13.21,6.46,No,No,No,Yes,No,No,No,No
+9881,LSTEEL,LEADER STEEL HOLDINGS BERHAD,Industrial Products & Services,Main Market,0.660,7.30,6.46,Yes,No,No,No,No,No,No,No
+5264,MALAKOF,MALAKOFF CORPORATION BERHAD,Utilities,Main Market,0.890,7.03,6.39,Yes,No,No,No,No,No,No,No
+7178,YSPSAH,Y.S.P.SOUTHEAST ASIA HOLDING BERHAD,Health Care,Main Market,2.300,15.30,6.38,No,No,No,No,Yes,No,No,No
+1015,AMBANK,AMMB HOLDINGS BERHAD,Financial Services,Main Market,3.570,40.88,6.37,No,No,No,No,No,No,No,No
+6432,APOLLO,APOLLO FOOD HOLDINGS BERHAD,Consumer Products & Services,Main Market,3.790,19.64,6.34,No,Yes,No,No,No,No,No,No
+5227,IGBREIT,IGB REAL ESTATE INVESTMENT TRUST,Real Estate Investment Trusts,Main Market,1.750,6.74,6.31,No,No,No,No,No,No,No,No
+2062,HARBOUR,HARBOUR-LINK GROUP BERHAD,Transportation & Logistics,Main Market,0.790,6.75,6.31,Yes,Yes,No,No,No,No,No,No
+3298,HEXZA,HEXZA CORPORATION BERHAD,Industrial Products & Services,Main Market,1.190,8.32,6.30,Yes,Yes,No,No,No,No,No,No
+7252,TEOSENG,TEO SENG CAPITAL BERHAD,Consumer Products & Services,Main Market,0.910,6.65,6.27,No,No,No,No,No,No,No,No
+0197,WEGMANS,WEGMANS HOLDINGS BERHAD,Consumer Products & Services,Main Market,0.330,1.00,6.27,No,No,No,No,Yes,No,No,Yes
+6068,PCCS,PCCS GROUP BERHAD,Consumer Products & Services,Main Market,0.460,4.56,6.25,No,No,No,No,No,No,No,No
+5010,TONGHER,TONG HERR RESOURCES BERHAD,Industrial Products & Services,Main Market,2.280,19.08,6.22,Yes,Yes,No,No,No,No,No,No
+0182,LKL,LKL INTERNATIONAL BERHAD,Health Care,Ace Market,0.880,0.85,6.07,Yes,No,No,No,Yes,No,No,No
+6888,AXIATA,AXIATA GROUP BERHAD,Telecommunications & Media,Main Market,3.870,10.40,6.05,Yes,No,No,No,No,No,No,No
+5223,MENTIGA,MENTIGA CORPORATION BERHAD,Industrial Products & Services,Main Market,0.540,15.70,5.99,Yes,No,No,No,Yes,Yes,No,No
+1171,MBSB,MALAYSIA BUILDING SOCIETY BERHAD,Financial Services,Main Market,0.680,7.59,5.98,Yes,No,No,No,Yes,No,No,No
+7249,EWEIN,EWEIN BERHAD,Property,Main Market,0.355,5.43,5.96,No,No,No,No,Yes,No,No,No
+0113,MMSV,MMS VENTURES BERHAD,Technology,Main Market,0.660,1.78,5.95,No,No,No,No,No,No,No,No
+7034,TGUAN,THONG GUAN INDUSTRIES BERHAD,Industrial Products & Services,Main Market,2.650,19.79,5.94,Yes,Yes,No,No,Yes,No,No,No
+7722,ASIABRN,ASIA BRANDS BERHAD,Consumer Products & Services,Main Market,0.655,5.24,5.88,Yes,No,No,Yes,No,No,No,Yes
+5291,HPMT,HPMT HOLDINGS BERHAD,Industrial Products & Services,Main Market,0.405,2.16,5.83,No,No,No,No,No,No,No,No
+4197,SIME,SIME DARBY BERHAD,Consumer Products & Services,Main Market,2.280,12.57,5.82,No,No,No,No,Yes,No,No,Yes
+4065,PPB,PPB GROUP BERHAD,Consumer Products & Services,Main Market,18.620,90.08,5.82,Yes,Yes,No,Yes,No,No,No,No
+0120,VIS,VISDYNAMICS HOLDINGS BERHAD,Technology,Ace Market,0.525,1.38,5.74,No,No,No,No,No,No,No,No
+8486,LIONPSIM,LION POSIM BERHAD,Industrial Products & Services,Main Market,0.575,14.56,5.73,Yes,Yes,No,No,No,No,No,Yes
+5278,RHONEMA,RHONE MA HOLDINGS BERHAD,Consumer Products & Services,Main Market,0.800,3.43,5.72,No,No,No,No,Yes,Yes,No,Yes
+5401,TROP,TROPICANA CORPORATION BERHAD,Property,Main Market,0.810,18.90,5.71,Yes,No,No,No,No,No,No,No
+5347,TENAGA,TENAGA NASIONAL BHD,Utilities,Main Market,10.780,53.19,5.63,No,No,No,No,No,No,No,No
+5681,PETDAG,PETRONAS DAGANGAN BHD,Consumer Products & Services,Main Market,21.240,31.54,5.53,No,No,No,No,No,No,No,No
+7140,OKA,OKA CORPORATION BHD,Industrial Products & Services,Main Market,0.675,4.09,5.53,No,No,No,Yes,No,No,No,No
+3883,MUDA,MUDA HOLDINGS BERHAD,Industrial Products & Services,Main Market,2.680,19.84,5.51,Yes,Yes,No,No,No,No,No,No
+3204,GKENT,GEORGE KENT (MALAYSIA) BERHAD,Construction,Main Market,0.775,5.31,5.51,No,No,No,No,No,No,No,No
+5167,TURBO,TURBO-MECH BERHAD,Industrial Products & Services,Main Market,0.775,5.59,5.48,Yes,No,No,No,Yes,Yes,No,No
+5012,TAANN,TA ANN HOLDINGS BERHAD,Plantation,Main Market,3.090,18.54,5.47,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+6459,MNRB,MNRB HOLDINGS BERHAD,Financial Services,Main Market,1.000,17.80,5.44,Yes,No,No,No,Yes,Yes,No,No
+5011,MSNIAGA,MESINIAGA BERHAD,Technology,Main Market,1.250,9.78,5.44,Yes,No,No,No,Yes,No,No,No
+6633,LHI,LEONG HUP INTERNATIONAL BERHAD,Consumer Products & Services,Main Market,0.720,2.47,5.38,No,No,No,No,No,No,No,Yes
+5271,PECCA,PECCA GROUP BERHAD,Industrial Products & Services,Main Market,1.530,4.72,5.33,No,No,No,Yes,No,No,No,No
+1929,CHINTEK,CHIN TECK PLANTATIONS BERHAD,Plantation,Main Market,6.790,39.39,5.29,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+5080,POHKONG,POH KONG HOLDINGS BERHAD,Consumer Products & Services,Main Market,0.825,7.55,5.28,Yes,No,No,Yes,No,No,No,No
+0053,OSKVI,OSK VENTURES INTERNATIONAL BERHAD,Financial Services,Ace Market,0.525,4.73,5.26,Yes,Yes,No,No,Yes,No,No,No
+7227,UMSNGB,UMS-NEIKEN GROUP BERHAD,Industrial Products & Services,Main Market,0.890,6.78,5.26,Yes,No,No,Yes,No,No,No,Yes
+7172,PMBTECH,PMB TECHNOLOGY BERHAD,Industrial Products & Services,Main Market,4.300,13.82,5.22,Yes,No,No,No,Yes,No,No,No
+7129,ASIAFLE,ASIA FILE CORPORATION BHD,Consumer Products & Services,Main Market,2.050,17.15,5.20,No,No,No,No,No,No,No,No
+7214,ARANK,A-RANK BERHAD,Industrial Products & Services,Main Market,0.525,4.24,5.11,No,No,No,No,No,No,No,No
+0158,SCC,SCC HOLDINGS BERHAD,Consumer Products & Services,Ace Market,0.375,1.54,5.11,No,No,No,No,No,No,No,No
+5138,HSPLANT,HAP SENG PLANTATIONS HOLDINGS BERHAD,Plantation,Main Market,1.770,10.56,5.03,Yes,Yes,No,No,Yes,Yes,No,Yes
+0187,BCMALL,BCM ALLIANCE BERHAD,Industrial Products & Services,Ace Market,0.265,0.65,5.02,No,No,No,No,No,No,No,No
+5035,KNUSFOR,KNUSFORD BERHAD,Industrial Products & Services,Main Market,0.760,11.44,4.99,Yes,No,No,No,No,No,No,No
+2291,GENP,GENTING PLANTATIONS BERHAD,Plantation,Main Market,10.100,26.41,4.97,Yes,Yes,No,No,Yes,Yes,No,Yes
+5183,PCHEM,PETRONAS CHEMICALS GROUP BERHAD,Industrial Products & Services,Main Market,7.580,18.79,4.96,No,No,No,No,No,No,No,No
+7114,DNONCE,D'NONCE TECHNOLOGY BHD,Industrial Products & Services,Main Market,0.515,2.26,4.92,Yes,Yes,No,No,No,Yes,No,No
+5230,TUNEPRO,TUNE PROTECT GROUP BERHAD,Financial Services,Main Market,0.425,3.73,4.90,No,No,No,No,No,No,No,No
+9997,PENSONI,PENSONIC HOLDINGS BERHAD,Consumer Products & Services,Main Market,0.545,4.43,4.82,Yes,No,No,No,No,No,No,No
+3859,MAGNUM,MAGNUM BERHAD,Consumer Products & Services,Main Market,2.200,8.24,4.82,No,No,No,No,No,No,No,No
+5211,SUNWAY,SUNWAY BERHAD,Industrial Products & Services,Main Market,1.580,8.20,4.80,No,No,No,No,No,No,No,No
+3913,MUIPROP,MUI PROPERTIES BERHAD,Property,Main Market,0.225,1.84,4.71,No,No,No,No,Yes,No,No,No
+4324,HENGYUAN,HENGYUAN REFINING COMPANY BERHAD,Energy,Main Market,5.770,33.68,4.70,Yes,Yes,No,Yes,No,No,No,No
+5054,TRC,TRC SYNERGY BERHAD,Construction,Main Market,0.390,4.20,4.67,No,Yes,No,No,No,No,No,No
+0185,HSSEB,HSS ENGINEERS BERHAD,Industrial Products & Services,Main Market,0.620,2.10,4.67,Yes,Yes,No,Yes,Yes,Yes,No,No
+9059,TSH,TSH RESOURCES BERHAD,Plantation,Main Market,1.140,4.67,4.66,Yes,Yes,No,Yes,Yes,No,No,No
+0223,SAMAIDEN,SAMAIDEN GROUP BERHAD,Industrial Products & Services,Ace Market,1.430,1.94,4.60,No,No,No,Yes,No,No,No,Yes
+4286,SEAL,SEAL INCORPORATED BERHAD,Property,Main Market,0.330,5.87,4.59,Yes,No,No,No,No,No,No,No
+7199,KEINHIN,KEIN HING INTERNATIONAL BERHAD,Industrial Products & Services,Main Market,0.555,5.00,4.58,Yes,Yes,No,No,No,No,No,Yes
+0024,JAG,JAG BERHAD,Industrial Products & Services,Ace Market,0.245,1.60,4.56,Yes,Yes,No,No,Yes,No,No,Yes
+5130,ATRIUM,ATRIUM REAL ESTATE INVESTMENT TRUST,Real Estate Investment Trusts,Main Market,1.160,5.88,4.56,Yes,Yes,No,No,Yes,Yes,No,Yes
+7095,PIE,P.I.E. INDUSTRIAL BERHAD,Industrial Products & Services,Main Market,2.050,5.22,4.54,No,No,No,No,No,No,No,Yes
+0172,OCK,OCK GROUP BERHAD,Telecommunications & Media,Main Market,0.440,2.54,4.53,No,No,No,No,No,No,No,No
+5220,GLOTEC,GLOBALTEC FORMATION BERHAD,Industrial Products & Services,Main Market,0.430,4.12,4.53,Yes,Yes,No,Yes,No,No,No,No
+7202,CSCENIC,CLASSIC SCENIC BERHAD,Consumer Products & Services,Main Market,0.940,3.48,4.52,No,No,No,Yes,No,No,No,No
+7228,T7GLOBAL,T7 GLOBAL BERHAD,Energy,Main Market,0.450,1.84,4.50,Yes,Yes,No,No,No,No,No,No
+7050,WONG,WONG ENGINEERING CORPORATION BERHAD,Industrial Products & Services,Main Market,0.680,2.76,4.44,No,No,No,No,Yes,Yes,No,Yes
+7210,FREIGHT,FREIGHT MANAGEMENT HOLDINGS BERHAD,Transportation & Logistics,Main Market,0.805,4.66,4.44,Yes,Yes,No,Yes,Yes,No,No,Yes
+6491,KFIMA,KUMPULAN FIMA BERHAD,Industrial Products & Services,Main Market,1.720,12.42,4.37,No,No,No,Yes,Yes,No,No,No
+5398,GAMUDA,GAMUDA BERHAD,Construction,Main Market,3.760,14.79,4.35,No,No,No,No,No,No,No,No
+1538,SYMLIFE,SYMPHONY LIFE BERHAD,Property,Main Market,0.585,6.86,4.34,No,No,No,No,No,No,No,Yes
+5280,KIPREIT,KIP REAL ESTATE INVESTMENT TRUST,Real Estate Investment Trusts,Main Market,0.810,4.39,4.34,No,No,No,No,Yes,No,No,No
+5191,TAMBUN,TAMBUN INDAH LAND BERHAD,Property,Main Market,0.680,6.35,4.32,No,No,No,No,No,No,No,No
+7203,WANGZNG,WANG-ZHENG BERHAD,Consumer Products & Services,Main Market,0.950,5.43,4.31,No,No,No,No,No,No,No,No
+1368,EDGENTA,UEM EDGENTA BERHAD,Industrial Products & Services,Main Market,1.910,7.54,4.31,No,No,No,No,No,No,No,No
+5088,APEX,APEX EQUITY HOLDINGS BERHAD,Financial Services,Main Market,0.950,6.66,4.30,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+9369,TGL,TEO GUAN LEE CORPORATION BERHAD,Consumer Products & Services,Main Market,1.040,9.49,4.26,No,No,No,No,No,No,No,No
+3557,ECOFIRS,ECOFIRST CONSOLIDATED BHD,Property,Main Market,0.395,1.85,4.21,No,No,No,No,No,No,No,No
+5049,CVIEW,COUNTRY VIEW BERHAD,Property,Main Market,1.140,17.38,4.21,No,No,No,No,No,No,No,No
+7128,CAMRES,CAM RESOURCES BERHAD,Consumer Products & Services,Main Market,0.345,2.57,4.21,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+0078,GDEX,GD EXPRESS CARRIER BERHAD,Transportation & Logistics,Main Market,0.410,0.38,4.19,No,No,No,No,Yes,Yes,Yes,Yes
+0105,ASIAPLY,ASIA POLY HOLDINGS BERHAD,Industrial Products & Services,Ace Market,0.300,0.79,4.17,Yes,Yes,No,Yes,Yes,No,No,Yes
+5269,ALSREIT,AL-SALAM REAL ESTATE INVESTMENT TRUST,Real Estate Investment Trusts,Main Market,0.620,4.50,4.16,No,No,No,No,No,No,No,No
+5257,CARIMIN,CARIMIN PETROLEUM BERHAD,Energy,Main Market,0.700,2.99,4.11,No,No,No,No,No,No,No,No
+0823EA,PAM-C50,PRINCIPAL FTSE CHINA 50 ETF,ETF-Equity,ETF,1.685,6.55,4.08,No,No,No,No,Yes,No,No,No
+0049,OCNCASH,OCEANCASH PACIFIC BERHAD,Consumer Products & Services,Main Market,0.585,1.63,4.05,No,No,No,No,No,No,No,No
+0112,MIKROMB,MIKRO MSC BERHAD,Technology,Ace Market,0.210,0.67,4.01,Yes,No,No,No,No,No,No,No
+0080,STRAITS,STRAITS INTER LOGISTICS BERHAD,Transportation & Logistics,Ace Market,0.185,0.69,3.95,No,No,No,No,Yes,No,No,No
+5127,ARREIT,AMANAHRAYA REAL ESTATE INVESTMENT TRUST,Real Estate Investment Trusts,Main Market,0.660,5.34,3.94,Yes,No,No,No,No,No,No,No
+3905,MULPHA,MULPHA INTERNATIONAL BERHAD,Consumer Products & Services,Main Market,1.300,34.87,3.94,Yes,Yes,No,No,No,No,No,No
+5212,PAVREIT,PAVILION REAL ESTATE INVESTMENT TRUST,Real Estate Investment Trusts,Main Market,1.630,4.97,3.93,No,No,No,No,No,No,No,No
+7006,LATITUD,LATITUDE TREE HOLDINGS BERHAD,Consumer Products & Services,Main Market,4.100,23.90,3.91,Yes,Yes,No,No,Yes,No,No,Yes
+6599,AEON,AEON CO. (M) BHD,Consumer Products & Services,Main Market,1.090,4.57,3.91,No,No,No,No,No,No,No,No
+5140,TASCO,TASCO BERHAD,Transportation & Logistics,Main Market,2.770,8.42,3.78,Yes,Yes,No,Yes,Yes,No,No,Yes
+5185,AFFIN,AFFIN BANK BERHAD,Financial Services,Main Market,1.850,17.40,3.77,No,No,No,No,Yes,Yes,No,Yes
+8478,HWATAI,HWA TAI INDUSTRIES BERHAD,Consumer Products & Services,Main Market,0.370,1.15,3.74,Yes,Yes,No,No,Yes,Yes,No,No
+6297,BOXPAK,BOX-PAK (MALAYSIA) BERHAD,Industrial Products & Services,Main Market,1.350,7.50,3.72,Yes,Yes,No,Yes,No,No,No,Yes
+5026,MHC,MHC PLANTATIONS BHD,Plantation,Main Market,0.790,4.64,3.71,Yes,No,No,No,Yes,No,No,No
+5038,KSL,KSL HOLDINGS BERHAD,Property,Main Market,0.630,11.24,3.71,No,No,No,No,No,No,No,No
+6769,JKGLAND,JKG LAND BERHAD,Property,Main Market,0.090,0.78,3.70,Yes,No,No,No,Yes,No,No,No
+8605,FIHB,FEDERAL INTERNATIONAL HOLDINGS BERHAD,Consumer Products & Services,Main Market,0.420,3.48,3.69,No,No,No,No,No,No,No,No
+6238,HSL,HOCK SENG LEE BERHAD,Construction,Main Market,0.975,5.58,3.68,No,No,No,No,No,No,No,No
+5789,LBS,LBS BINA GROUP BERHAD,Property,Main Market,0.420,3.20,3.67,No,No,No,No,No,No,No,No
+7854,TIMWELL,TIMBERWELL BERHAD,Industrial Products & Services,Main Market,0.450,2.13,3.67,No,No,No,No,No,No,No,No
+7179,LAGENDA,LAGENDA PROPERTIES BERHAD,Property,Main Market,1.160,12.27,3.62,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+0149,FIBON,FIBON BERHAD,Industrial Products & Services,Main Market,0.290,1.82,3.58,No,No,No,No,No,No,No,No
+0054,KARYON,KARYON INDUSTRIES BERHAD,Industrial Products & Services,Main Market,0.210,0.79,3.57,No,No,No,No,No,No,No,No
+5005,UNISEM,UNISEM (M) BERHAD,Technology,Main Market,6.800,7.00,3.55,Yes,Yes,Yes,Yes,No,No,No,Yes
+7187,CHGP,CHIN HIN GROUP PROPERTY BERHAD,Transportation & Logistics,Main Market,0.480,1.41,3.53,Yes,Yes,No,No,Yes,No,No,No
+0195,BINACOM,BINASAT COMMUNICATIONS BERHAD,Telecommunications & Media,Ace Market,0.370,1.06,3.53,No,Yes,No,No,No,No,No,No
+0180,KTC,KIM TECK CHEONG CONSOLIDATED BERHAD,Consumer Products & Services,Ace Market,0.150,0.63,3.50,No,No,No,No,Yes,No,No,Yes
+6521,SURIA,SURIA CAPITAL HOLDINGS BERHAD,Transportation & Logistics,Main Market,1.030,11.32,3.46,No,No,No,No,No,No,No,No
+7217,EMETALL,EONMETALL GROUP BERHAD,Industrial Products & Services,Main Market,0.625,4.66,3.45,Yes,No,No,No,Yes,No,No,Yes
+5125,PANTECH,PANTECH GROUP HOLDINGS BERHAD,Industrial Products & Services,Main Market,0.405,3.02,3.43,No,No,No,No,No,No,No,No
+8583,MAHSING,MAH SING GROUP BERHAD,Property,Main Market,0.905,4.83,3.43,No,No,No,No,No,No,No,No
+7073,SEACERA,SEACERA GROUP BERHAD,Industrial Products & Services,Main Market,0.245,3.89,3.38,Yes,Yes,No,No,No,No,Yes,No
+1023,CIMB,CIMB GROUP HOLDINGS BERHAD,Financial Services,Main Market,4.380,18.42,3.32,No,No,No,No,No,No,No,No
+3484,DBHD,DAMANSARA HOLDINGS BERHAD,Property,Main Market,0.365,1.88,3.31,No,No,No,No,No,No,No,No
+7226,WATTA,WATTA HOLDING BERHAD,Industrial Products & Services,Main Market,0.635,2.22,3.31,Yes,No,No,No,No,No,No,No
+1058,MANULFE,MANULIFE HOLDINGS BERHAD,Financial Services,Main Market,2.050,14.04,3.30,Yes,No,No,No,Yes,Yes,No,No
+3379,INSAS,INSAS BERHAD,Financial Services,Main Market,0.905,8.99,3.29,No,No,No,Yes,Yes,No,No,No
+8117,POLY,POLY GLASS FIBRE (M) BERHAD,Industrial Products & Services,Main Market,0.515,3.48,3.24,Yes,No,No,No,No,No,No,No
+5176,SUNREIT,SUNWAY REAL ESTATE INVESTMENT TRUST,Real Estate Investment Trusts,Main Market,1.530,4.78,3.23,No,No,No,No,No,No,No,No
+0227,EFRAME,ECONFRAME BERHAD,Industrial Products & Services,Ace Market,0.605,0.78,3.22,No,No,No,Yes,No,No,No,Yes
+5068,LUSTER,LUSTER INDUSTRIES BHD.,Industrial Products & Services,Main Market,0.185,0.29,3.20,No,No,No,No,Yes,No,No,No
+2852,CMSB,CAHYA MATA SARAWAK BERHAD,Industrial Products & Services,Main Market,1.880,8.01,3.19,No,No,No,No,No,No,No,No
+5273,CHINHIN,CHIN HIN GROUP BERHAD,Industrial Products & Services,Main Market,1.350,2.57,3.18,No,No,No,No,No,No,No,Yes
+7083,ANALABS,ANALABS RESOURCES BERHAD,Industrial Products & Services,Main Market,1.170,7.46,3.17,Yes,No,No,No,No,No,No,No
+0167,MCLEAN,MCLEAN TECHNOLOGIES BERHAD,Industrial Products & Services,Ace Market,0.195,0.44,3.17,Yes,Yes,No,Yes,No,No,No,No
+6017,SHL,SHL CONSOLIDATED BHD,Property,Main Market,1.980,10.74,3.17,No,No,No,No,No,No,No,No
+0116,FOCUS,FOCUS DYNAMICS GROUP BERHAD,Consumer Products & Services,Ace Market,0.650,0.07,3.13,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+7164,KNM,KNM GROUP BERHAD,Energy,Main Market,0.220,2.03,3.12,Yes,Yes,No,No,No,No,No,No
+9873,PRESTAR,PRESTAR RESOURCES BERHAD,Industrial Products & Services,Main Market,0.795,4.65,3.12,Yes,No,No,Yes,No,No,No,Yes
+5095,HEVEA,HEVEABOARD BERHAD,Industrial Products & Services,Main Market,0.725,2.28,3.08,No,No,No,Yes,No,No,No,No
+7200,TEKSENG,TEK SENG HOLDINGS BERHAD,Consumer Products & Services,Main Market,0.685,1.75,3.07,Yes,Yes,Yes,Yes,Yes,No,No,No
+7757,UPA,UPA CORPORATION BHD,Consumer Products & Services,Main Market,2.150,9.84,2.96,No,No,No,No,No,No,No,No
+4057,ASIAPAC,ASIAN PAC HOLDINGS BERHAD,Property,Main Market,0.135,3.12,2.96,No,No,No,No,No,No,No,No
+5283,EWINT,ECO WORLD INTERNATIONAL BERHAD,Property,Main Market,0.465,3.35,2.94,No,No,No,No,Yes,Yes,No,No
+3743,SUNSURIA,SUNSURIA BERHAD,Property,Main Market,0.505,3.37,2.93,No,No,No,No,No,No,No,No
+2542,RVIEW,RIVERVIEW RUBBER ESTATES BERHAD,Plantation,Main Market,2.950,12.31,2.92,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+9326,LBALUM,LB ALUMINIUM BERHAD,Industrial Products & Services,Main Market,0.610,3.56,2.90,No,No,No,Yes,No,No,No,No
+8206,ECOWLD,ECO WORLD DEVELOPMENT GROUP BERHAD,Property,Main Market,0.515,4.59,2.89,No,No,No,No,No,No,No,No
+0032,REDTONE,REDTONE INTERNATIONAL BERHAD,Telecommunications & Media,Ace Market,0.355,0.56,2.82,No,No,No,No,No,No,No,No
+2194,MMCCORP,MMC CORPORATION BERHAD,Transportation & Logistics,Main Market,0.880,8.68,2.82,No,No,No,No,No,No,No,No
+7169,DOMINAN,DOMINANT ENTERPRISE BERHAD,Industrial Products & Services,Main Market,0.785,5.12,2.80,No,No,No,No,No,No,No,No
+5123,MQREIT,QUILL CAPITA TRUST,Real Estate Investment Trusts,Main Market,0.845,3.36,2.79,No,Yes,No,Yes,Yes,Yes,No,No
+0225,SCGBHD,SOUTHERN CABLE GROUP BERHAD,Industrial Products & Services,Ace Market,0.395,3.67,2.78,No,No,No,Yes,No,No,No,Yes
+6173,BDB,BINA DARULAMAN BERHAD,Property,Main Market,0.390,4.16,2.76,Yes,No,No,No,Yes,No,No,No
+5161,JCY,JCY INTERNATIONAL BERHAD,Technology,Main Market,0.530,1.21,2.74,Yes,Yes,No,Yes,Yes,Yes,No,No
+0218,ACO,ACO GROUP BERHAD,Industrial Products & Services,Ace Market,0.330,0.73,2.73,No,No,No,No,No,No,No,No
+5249,IOIPG,IOI PROPERTIES GROUP BERHAD,Property,Main Market,1.550,9.28,2.71,No,No,No,No,Yes,Yes,No,Yes
+3174,L&G,LAND & GENERAL BERHAD,Property,Main Market,0.110,1.00,2.71,No,Yes,No,No,No,No,No,Yes
+5094,CSCSTEL,CSC STEEL HOLDINGS BERHAD,Industrial Products & Services,Main Market,1.220,5.96,2.70,No,No,No,Yes,No,No,No,No
+5171,KIMLUN,KIMLUN CORPORATION BERHAD,Construction,Main Market,0.925,5.64,2.69,No,No,No,No,No,No,No,No
+9261,GADANG,GADANG HOLDINGS BHD,Construction,Main Market,0.465,3.00,2.68,No,No,No,No,No,No,No,No
+5180,CMMT,CAPITALAND MALAYSIA MALL TRUST,Real Estate Investment Trusts,Main Market,0.630,3.27,2.64,No,No,No,No,No,No,No,No
+7018,CME,CME GROUP BERHAD,Industrial Products & Services,Main Market,0.060,0.15,2.62,Yes,Yes,No,No,No,No,No,No
+5843,KPS,KUMPULAN PERANGSANG SELANGOR BERHAD,Industrial Products & Services,Main Market,0.985,4.73,2.61,No,No,No,No,Yes,Yes,No,Yes
+0202,RGTECH,RADIANT GLOBALTECH BERHAD,Technology,Ace Market,0.355,0.31,2.60,No,No,No,No,Yes,No,No,No
+8524,TALIWRK,TALIWORKS CORPORATION BERHAD,Utilities,Main Market,0.880,1.25,2.58,No,No,No,No,No,No,No,No
+6114,MKH,MKH BERHAD,Property,Main Market,1.440,7.28,2.57,No,No,No,No,No,No,No,No
+7105,HCK,HCK CAPITAL GROUP BERHAD,Property,Main Market,1.220,1.23,2.50,No,No,No,No,Yes,No,No,No
+0206,NADIBHD,GAGASAN NADI CERGAS BERHAD,Construction,Ace Market,0.305,1.47,2.50,No,No,No,No,No,No,No,No
+5120,AMFIRST,AMFIRST REAL ESTATE INVESTMENT TRUST,Real Estate Investment Trusts,Main Market,0.415,3.05,2.49,No,No,No,No,Yes,No,No,No
+7595,MGB,MGB BERHAD,Construction,Main Market,0.590,2.32,2.49,No,No,No,Yes,No,No,No,No
+5132,DELEUM,DELEUM BERHAD,Energy,Main Market,0.650,2.12,2.49,No,No,No,No,No,No,No,No
+3107,FIMACOR,FIMA CORPORATION BERHAD,Industrial Products & Services,Main Market,1.790,5.62,2.47,No,No,No,No,Yes,No,No,No
+5110,UOAREIT,UOA REAL ESTATE INVESTMENT TRUST,Real Estate Investment Trusts,Main Market,1.270,4.11,2.45,No,No,No,No,No,No,No,No
+8982,CEPAT,CEPATWAWASAN GROUP BERHAD,Plantation,Main Market,0.685,2.60,2.45,Yes,Yes,No,Yes,Yes,No,No,Yes
+7099,ATTA,ATTA GLOBAL GROUP BERHAD,Industrial Products & Services,Main Market,0.445,4.02,2.44,Yes,Yes,No,No,No,No,No,No
+7149,ENGKAH,ENG KAH CORPORATION BERHAD,Consumer Products & Services,Main Market,1.040,2.49,2.42,Yes,No,No,No,No,No,No,No
+9423,CWG,CWG HOLDINGS BERHAD,Consumer Products & Services,Main Market,0.325,1.63,2.39,No,No,No,No,No,No,No,No
+5568,APB,APB RESOURCES BERHAD,Industrial Products & Services,Main Market,0.555,3.38,2.38,Yes,No,No,Yes,Yes,No,No,No
+2305,AYER,AYER HOLDINGS BERHAD,Property,Main Market,5.600,16.40,2.34,No,No,No,No,No,No,No,No
+7323,KEN,KEN HOLDINGS BERHAD,Property,Main Market,0.600,4.19,2.30,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+3336,IJM,IJM CORPORATION BERHAD,Construction,Main Market,1.830,6.09,2.28,No,No,No,No,No,No,No,No
+5222,FGV,FGV HOLDINGS BERHAD,Plantation,Main Market,1.170,2.49,2.20,Yes,Yes,No,Yes,No,Yes,No,Yes
+5606,IGBB,IGB BERHAD,Property,Main Market,2.630,8.96,2.20,No,No,No,No,No,No,No,No
+0021,GHLSYS,GHL SYSTEMS BERHAD,Technology,Main Market,1.800,1.35,2.16,No,No,No,Yes,No,No,No,Yes
+9199,LYSAGHT,LYSAGHT GALVANIZED STEEL BERHAD,Industrial Products & Services,Main Market,2.200,7.89,2.13,No,No,No,No,No,No,No,No
+7163,PJBUMI,PJBUMI BERHAD,Industrial Products & Services,Main Market,0.265,0.58,2.07,No,No,No,No,Yes,No,No,No
+5231,PELIKAN,PELIKAN INTERNATIONAL CORPORATION BERHAD,Consumer Products & Services,Main Market,0.320,1.55,2.06,No,Yes,No,No,No,No,No,No
+9962,GMUTUAL,GROMUTUAL BERHAD,Property,Main Market,0.250,1.96,2.04,No,No,No,No,No,No,No,No
+4952,AHP,AMANAH HARTA TANAH PNB,Real Estate Investment Trusts,Main Market,0.985,2.55,2.03,No,No,No,No,No,No,No,Yes
+5198,AFUJIYA,ABM FUJIYA BERHAD,Industrial Products & Services,Main Market,0.410,1.82,2.03,No,Yes,No,No,No,No,No,No
+5040,MERIDIAN,MERIDIAN BERHAD,Property,Main Market,0.420,0.40,2.02,Yes,Yes,No,No,Yes,No,No,No
+6181,MALTON,MALTON BERHAD,Property,Main Market,0.515,3.39,1.93,No,No,No,No,Yes,Yes,No,No
+9717,SYCAL,SYCAL VENTURES BERHAD,Construction,Main Market,0.270,1.30,1.93,Yes,No,No,No,Yes,No,No,No
+2216,IJMPLNT,IJM PLANTATIONS BERHAD,Plantation,Main Market,1.840,2.81,1.93,Yes,Yes,No,No,Yes,Yes,No,No
+3158,YNHPROP,YNH PROPERTY BERHAD,Property,Main Market,2.720,4.34,1.84,No,No,No,No,No,No,No,No
+7033,HIGHTEC,KUMPULAN H & L HIGH-TECH BERHAD,Industrial Products & Services,Main Market,1.090,4.74,1.82,No,No,No,Yes,No,No,No,No
+7060,NHFATT,NEW HOONG FATT HOLDINGS BERHAD,Consumer Products & Services,Main Market,2.310,10.06,1.80,No,No,No,Yes,No,No,No,No
+7028,ZECON,ZECON BERHAD,Construction,Main Market,0.515,3.11,1.80,No,No,No,No,No,No,No,No
+0058,JCBNEXT,JCBNEXT BERHAD,Industrial Products & Services,Main Market,1.400,4.19,1.78,No,No,No,No,No,No,No,No
+6602,BCB,BCB BERHAD,Property,Main Market,0.345,2.07,1.76,No,No,No,No,No,No,No,No
+5232,LEONFB,LEON FUAT BERHAD,Industrial Products & Services,Main Market,0.490,2.03,1.73,No,No,Yes,No,No,No,No,No
+2453,KLUANG,KLUANG RUBBER COMPANY (MALAYA) BERHAD,Plantation,Main Market,3.400,17.32,1.73,Yes,Yes,No,No,Yes,Yes,No,No
+2186,KUCHAI,KUCHAI DEVELOPMENT BERHAD,Financial Services,Main Market,1.510,5.84,1.72,Yes,Yes,No,No,Yes,No,No,No
+0101,TMCLIFE,TMC LIFE SCIENCES BERHAD,Health Care,Main Market,0.565,0.75,1.67,No,No,No,No,No,No,No,No
+5072,HIAPTEK,HIAP TECK VENTURE BERHAD,Industrial Products & Services,Main Market,0.440,1.05,1.67,Yes,No,No,No,No,No,No,No
+0039,GFM,GFM SERVICES BERHAD,Industrial Products & Services,Ace Market,0.180,0.40,1.66,No,No,No,No,No,No,No,No
+3778,MELEWAR,MELEWAR INDUSTRIAL GROUP BERHAD,Industrial Products & Services,Main Market,0.290,1.52,1.63,No,No,No,No,No,No,No,No
+5041,PBA,PBA HOLDINGS BHD,Utilities,Main Market,0.870,3.45,1.63,Yes,No,Yes,No,No,No,No,No
+6718,CRESNDO,CRESCENDO CORPORATION BERHAD,Property,Main Market,1.020,5.22,1.61,No,No,No,No,No,No,No,No
+2569,SBAGAN,SUNGEI BAGAN RUBBER COMPANY (MALAYA) BERHAD,Plantation,Main Market,3.100,13.39,1.60,Yes,Yes,No,Yes,Yes,Yes,No,No
+9385,LAYHONG,LAY HONG BERHAD,Consumer Products & Services,Main Market,0.385,0.81,1.55,No,Yes,No,No,Yes,Yes,No,No
+5284,LCTITAN,LOTTE CHEMICAL TITAN HOLDING BERHAD,Industrial Products & Services,Main Market,2.920,8.02,1.53,No,No,No,No,No,No,No,No
+7215,NIHSIN,NI HSIN RESOURCES BERHAD,Consumer Products & Services,Main Market,0.245,0.43,1.52,Yes,Yes,No,Yes,No,No,No,No
+0104,GENETEC,GENETEC TECHNOLOGY BERHAD,Technology,Ace Market,1.740,2.67,1.51,Yes,No,No,No,Yes,No,No,No
+7207,SUCCESS,SUCCESS TRANSFORMER CORPORATION BERHAD,Industrial Products & Services,Main Market,0.670,2.12,1.51,No,No,No,No,No,No,No,No
+4723,JAKS,JAKS RESOURCES BERHAD,Construction,Main Market,0.670,2.30,1.50,No,No,No,No,No,No,No,No
+8761,BREM,BREM HOLDING BERHAD,Construction,Main Market,0.825,2.53,1.49,No,No,No,No,No,No,No,No
+7765,RAPID,RAPID SYNERGY BERHAD,Property,Main Market,6.500,2.03,1.48,No,No,No,No,Yes,No,No,Yes
+0089,TEXCYCL,TEX CYCLE TECHNOLOGY (M) BERHAD,Industrial Products & Services,Ace Market,0.405,0.63,1.47,No,No,No,No,No,No,No,No
+0083,NOTION,NOTION VTEC BERHAD,Technology,Main Market,0.880,1.22,1.46,No,No,No,No,Yes,No,No,No
+0189,MATANG,MATANG BERHAD,Plantations,Ace Market,0.085,0.15,1.45,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+4006,ORIENT,ORIENTAL HOLDINGS BERHAD,Consumer Products & Services,Main Market,5.430,14.71,1.43,No,No,No,No,No,No,No,No
+5111,TWRREIT,TOWER REAL ESTATE INVESTMENT TRUST,Real Estate Investment Trusts,Main Market,0.590,2.59,1.36,No,No,No,No,Yes,Yes,No,Yes
+5020,GLOMAC,GLOMAC BERHAD,Property,Main Market,0.320,1.93,1.34,No,No,No,No,Yes,No,No,Yes
+5797,CHOOBEE,CHOO BEE METAL INDUSTRIES BHD,Industrial Products & Services,Main Market,1.420,5.18,1.33,Yes,No,No,Yes,No,No,No,No
+1694,MENANG,MENANG CORPORATION (M) BERHAD,Property,Main Market,0.550,0.89,1.33,No,No,No,No,No,Yes,No,No
+9148,ADVPKG,ADVANCED PACKAGING TECHNOLOGY (M) BHD,Industrial Products & Services,Main Market,2.250,2.05,1.32,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+8419,PANSAR,PANSAR BERHAD,Industrial Products & Services,Main Market,0.785,0.46,1.25,No,No,No,No,No,No,No,No
+4936,MALPAC,MALPAC HOLDINGS BERHAD,Plantation,Main Market,0.800,2.70,1.21,Yes,Yes,No,Yes,Yes,No,No,Yes
+5235SS,KLCC,KLCC REAL ESTATE INVESTMENT TRUST,Real Estate Investment Trusts,Main Market,7.160,34.71,1.19,No,No,No,No,No,No,No,No
+0226,ANEKA,ANEKA JARINGAN HOLDINGS BERHAD,Construction,Ace Market,0.325,1.04,1.17,No,No,No,Yes,No,No,No,Yes
+7157,CYL,CYL CORPORATION BERHAD,Industrial Products & Services,Main Market,0.485,0.73,1.13,Yes,No,No,No,No,No,No,No
+9288,BONIA,BONIA CORPORATION BERHAD,Consumer Products & Services,Main Market,0.925,2.08,1.08,No,No,No,No,No,No,No,No
+2984,FACBIND,FACB INDUSTRIES INCORPORATED BERHAD,Industrial Products & Services,Main Market,1.470,2.85,1.05,Yes,Yes,No,No,No,No,No,Yes
+5129,MELATI,MELATI EHSAN HOLDINGS BERHAD,Construction,Main Market,0.500,1.87,1.04,No,No,No,Yes,Yes,No,No,No
+7183,IQZAN,IQZAN HOLDING BERHAD,Industrial Products & Services,Main Market,0.120,0.18,1.04,No,No,No,No,Yes,Yes,No,No
+5247,KAREX,KAREX BERHAD,Consumer Products & Services,Main Market,0.825,0.48,1.01,Yes,Yes,No,Yes,Yes,Yes,No,No
+2879,CCM,CHEMICAL COMPANY OF MALAYSIA BERHAD,Industrial Products & Services,Main Market,3.080,1.76,0.93,No,No,No,No,Yes,Yes,No,Yes
+7528,DKLS,DKLS INDUSTRIES BHD,Construction,Main Market,1.680,4.08,0.93,No,No,Yes,No,No,No,No,No
+5156,XDL,XIDELANG HOLDINGS LTD,Consumer Products & Services,Main Market,0.075,0.65,0.91,No,No,No,No,No,No,No,No
+8893,MKLAND,MK LAND HOLDINGS BERHAD,Property,Main Market,0.170,0.88,0.89,Yes,No,No,No,Yes,No,No,No
+7222,IMASPRO,IMASPRO CORPORATION BERHAD,Industrial Products & Services,Main Market,2.030,1.40,0.87,Yes,No,No,Yes,No,No,No,No
+7137,UMS,UMS HOLDINGS BERHAD,Industrial Products & Services,Main Market,1.700,3.35,0.86,No,No,No,No,No,No,No,No
+7609,AJIYA,AJIYA BERHAD,Industrial Products & Services,Main Market,0.550,0.97,0.82,No,No,No,No,No,No,No,No
+7209,CHEETAH,CHEETAH HOLDINGS BERHAD,Consumer Products & Services,Main Market,0.710,0.88,0.80,Yes,No,No,No,No,No,No,No
+7471,EDEN,EDEN INC. BERHAD,Utilities,Main Market,0.160,0.58,0.78,No,No,No,No,No,No,No,No
+5237,MPHBCAP,MPHB CAPITAL BERHAD,Financial Services,Main Market,1.180,1.53,0.77,No,Yes,No,No,Yes,No,No,Yes
+5081,EIG,ESTHETICS INTERNATIONAL GROUP BERHAD,Consumer Products & Services,Main Market,0.420,0.55,0.76,No,No,No,No,No,No,No,No
+9008,OMESTI,OMESTI BERHAD,Technology,Main Market,0.515,0.26,0.75,No,No,No,No,No,No,No,No
+7071,OCR,OCR GROUP BERHAD,Construction,Main Market,0.310,0.22,0.64,Yes,No,No,No,Yes,No,No,No
+9571,MITRA,MITRAJAYA HOLDINGS BERHAD,Construction,Main Market,0.280,0.58,0.63,Yes,Yes,No,No,No,No,No,No
+7174,CAB,CAB CAKARAN CORPORATION BERHAD,Consumer Products & Services,Main Market,0.470,0.42,0.62,No,Yes,No,No,No,No,No,No
+9695,PLS,PLS PLANTATIONS BERHAD,Plantation,Main Market,0.915,0.33,0.59,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+6742,YTLPOWR,YTL POWER INTERNATIONAL BHD,Utilities,Main Market,0.760,0.91,0.57,No,No,No,No,No,No,No,No
+5281,ADVCON,ADVANCECON HOLDINGS BERHAD,Construction,Main Market,0.375,0.26,0.57,No,No,No,No,No,No,No,No
+2038,NSOP,NEGRI SEMBILAN OIL PALMS BERHAD,Plantation,Main Market,3.200,4.22,0.55,Yes,Yes,No,No,Yes,Yes,Yes,Yes
+0109,SCBUILD,SC ESTATE BUILDER BERHAD,Construction,Ace Market,0.060,0.02,0.54,No,Yes,No,No,No,Yes,Yes,No
+4251,IBHD,I-BERHAD,Property,Main Market,0.235,0.54,0.53,No,No,No,No,No,No,No,No
+5207,SBCCORP,SBC CORPORATION BERHAD,Property,Main Market,0.365,0.78,0.48,No,No,No,No,No,No,No,No
+5075,PLENITU,PLENITUDE BERHAD,Property,Main Market,1.050,1.91,0.46,No,No,No,No,No,No,No,No
+4359,TURIYA,TURIYA BERHAD,Technology,Main Market,0.255,0.24,0.45,Yes,Yes,No,No,Yes,No,No,No
+8613,ENRA,ENRA GROUP BERHAD,Property,Main Market,0.715,0.36,0.41,Yes,No,No,No,Yes,No,No,No
+5243,VELESTO,VELESTO ENERGY BERHAD,Energy,Main Market,0.145,0.14,0.41,No,No,No,No,No,No,No,No
+0211,TASHIN,TASHIN HOLDINGS BERHAD,Industrial Products & Services,Ace Market,0.330,0.20,0.36,No,No,No,No,No,No,No,Yes
+1589,IWCITY,ISKANDAR WATERFRONT CITY BERHAD,Property,Main Market,0.590,0.34,0.35,Yes,No,No,No,No,No,No,No
+7221,BSLCORP,BSL CORPORATION BERHAD,Industrial Products & Services,Main Market,0.345,0.38,0.34,No,No,No,Yes,No,No,No,No
+7003,Y&G,Y&G CORPORATION BHD,Property,Main Market,0.480,0.45,0.34,No,No,No,No,No,No,No,No
+0828EA,GOLDETF,TRADEPLUS SHARIAH GOLD TRACKER,ETF-Commodity,ETF,2.430,0.70,0.29,No,Yes,No,No,No,Yes,No,No
+5576,MINHO,MINHO (M) BERHAD,Industrial Products & Services,Main Market,0.330,0.31,0.28,No,No,No,No,No,No,No,No
+9121,KPSCB,KPS CONSORTIUM BERHAD,Industrial Products & Services,Main Market,0.500,0.36,0.19,No,No,No,No,No,No,No,No
+5056,ENGTEX,ENGTEX GROUP BERHAD,Industrial Products & Services,Main Market,0.600,0.30,0.19,Yes,No,No,Yes,No,No,No,No
+5007,CHINWEL,CHIN WELL HOLDINGS BERHAD,Industrial Products & Services,Main Market,1.070,0.29,0.15,No,No,No,No,No,No,No,No
+3476,KSENG,KECK SENG (MALAYSIA) BERHAD,Industrial Products & Services,Main Market,3.870,0.81,0.13,No,No,No,No,No,No,No,No
+03037,AURORA,AURORA ITALIA INTERNATIONAL BERHAD,Consumer Products & Services,Leap Market,0.100,0.18,0.03,No,No,No,No,No,No,No,No
+0835EA,KLCI1XI,KENANGA KLCI DAILY (-1X) INVERSE ETF,None,None,1.845,0.20,0.02,No,No,No,Yes,No,No,No,Yes
+7232,RESINTC,RESINTECH BERHAD,Industrial Products & Services,Main Market,0.295,2.31,0.02,No,No,No,No,No,No,No,Yes
+0836EA,MY-MOMETF,TRADEPLUS DWA MALAYSIA MOMENTUM TRACKER,ETF-Equity,ETF,1.060,0.04,0.01,No,No,No,Yes,No,No,No,Yes
+0400GB,DIN045801028,DANAINFRA NASIONAL BERHAD,Bond Islamic,Bond & Loan,107.000,,0.00,No,No,No,No,No,No,No,No
+1163PA,ALLIANZ-PA,,Financial Services,Main Market,14.720,,0.00,No,No,No,No,No,No,No,No
+0400GC,DIN042300721,DANAINFRA NASIONAL BERHAD,Bond Islamic,Bond & Loan,101.800,,0.00,No,No,No,No,No,No,No,No
+03038,ICTZONE,ICT ZONE ASIA BERHAD,Technology,Leap Market,0.200,,0.00,No,No,No,No,No,No,No,No
+0401GA,IHS046000824,IHSAN SUKUK-ETBS 4.60%0824,Bond Islamic,Bond & Loan,101.000,,0.00,No,No,No,No,No,No,No,No
+0400GA,DIN040000223,DANAINFRA NASIONAL BERHAD,Bond Islamic,Bond & Loan,103.000,,0.00,No,No,No,No,No,No,No,No
+0172OR,OCK-OR,,Telecommunications & Media,Main Market,0.365,,0.00,No,No,No,No,No,No,No,No
+0159,AMEDIA,ASIA MEDIA GROUP BERHAD,Telecommunications & Media,Main Market,0.120,-0.20,0.00,Yes,Yes,No,Yes,No,No,No,No
+0826EA,METFAPA,MYETF THOMSON REUTERS ASIA PACIFIC EX-JAPAN ISLAMIC AGRIBUSINESS,ETF-Equity,ETF,0.945,-1.56,0.00,No,No,No,No,No,No,No,No
+0825EA,METFSID,MYETF MSCI SEA ISLAMIC DIVIDEND,ETF-Equity,ETF,0.715,-1.81,0.00,Yes,No,No,No,Yes,No,No,No
+0820EA,FBMKLCI-EA,FTSE BURSA MALAYSIA KLCI ETF,ETF-Equity,ETF,1.750,-8.25,0.00,No,No,No,No,No,No,No,No
+7182,EKA,EKA NOODLES BERHAD,Consumer Products & Services,Main Market,0.070,-0.47,0.00,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+5229,CAP,CHINA AUTOMOBILE PARTS HOLDINGS LIMITED,Industrial Products & Services,Main Market,0.010,-0.07,0.00,No,Yes,No,No,No,No,No,Yes
+5194,APFT,APFT BERHAD,Consumer Products & Services,Main Market,0.005,-0.26,0.00,No,No,No,No,No,No,No,No
+4847,KTB,KONSORTIUM TRANSNASIONAL BERHAD,Consumer Products & Services,Main Market,0.150,-8.38,0.00,No,No,No,Yes,No,No,No,No
+0045,GNB,G NEPTUNE BERHAD,Technology,Ace Market,0.015,-0.85,0.00,No,No,No,No,No,No,No,Yes
+9474,BRAHIMS,BRAHIM'S HOLDINGS BERHAD,Consumer Products & Services,Main Market,0.260,-20.69,0.00,Yes,No,No,No,No,No,No,No
+0091,DAYA,DAYA MATERIALS BERHAD,Energy,Main Market,0.020,-1.98,0.00,No,No,No,No,No,No,No,No
+9806,NATWIDE,NATIONWIDE EXPRESS HOLDINGS BERHAD,Transportation & Logistics,Main Market,0.315,-32.68,0.00,No,No,No,No,No,No,No,No
+8346,PRKCORP,PERAK CORPORATION BERHAD,Transportation & Logistics,Main Market,0.515,-70.97,0.00,No,No,No,No,No,No,No,No
+6203,KHEESAN,KHEE SAN BERHAD,Consumer Products & Services,Main Market,0.275,-83.79,0.00,No,Yes,No,No,No,No,No,No
+5238,AAX,AIRASIA X BERHAD,Consumer Products & Services,Main Market,0.080,-30.36,0.00,No,No,No,No,No,No,No,No
+5060,KINSTEL,KINSTEEL BHD,Industrial Products & Services,Main Market,0.005,-2.60,0.00,Yes,Yes,No,No,No,No,No,No
+7158,SCOMI,SCOMI GROUP BERHAD,Energy,Main Market,0.040,-24.68,0.00,Yes,No,No,No,No,No,No,No
+0827EA,METFUS50,MYETF DOW JONES U.S. TITANS 50,ETF-Equity,ETF,1.630,-15.00,0.00,No,No,No,Yes,No,No,No,Yes
+7251,BARAKAH,BARAKAH OFFSHORE PETROLEUM BERHAD,Energy,Main Market,0.055,3.34,0.00,Yes,Yes,No,No,No,No,No,No
+0824EA,MYETFID,MYETF MSCI MALAYSIA ISLAMIC DIVIDEND,ETF-Equity,ETF,1.415,27.65,0.00,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+0800EA,ABFMY1,ABF MALAYSIA BOND INDEX FUND,ETF-Bond,ETF,1.250,12.94,0.00,Yes,Yes,No,No,Yes,Yes,No,No
+0821EA,MYETFDJ,MYETF DOW JONES ISLAMIC MARKET MALAYSIA TITANS 25,ETF-Equity,ETF,1.265,9.24,0.00,No,Yes,No,Yes,Yes,Yes,No,Yes
+7173,TOYOVEN,TOYO VENTURES HOLDINGS BERHAD,Industrial Products & Services,Main Market,0.805,3.14,0.00,No,No,No,No,No,No,No,No
+0837EA,AXJ-REITSETF,TRADEPLUS MSCI ASIA EX JAPAN REITS TRACKER,ETF-Equity,ETF,0.995,-0.04,-0.01,No,No,No,Yes,No,No,No,Yes
+4081,PMCORP,PAN MALAYSIA CORPORATION BERHAD,Consumer Products & Services,Main Market,0.125,-0.02,-0.04,Yes,No,No,Yes,No,No,No,No
+7070,VIZIONE,VIZIONE HOLDINGS BERHAD,Construction,Main Market,0.400,-0.12,-0.11,No,No,No,No,No,No,No,No
+7133,ULICORP,UNITED U-LI CORPORATION BERHAD,Industrial Products & Services,Main Market,0.940,-0.15,-0.11,Yes,No,No,Yes,No,No,No,No
+0834EA,KLCI2XL,KENANGA KLCI DAILY 2X LEVERAGED ETF,None,None,1.860,-0.92,-0.13,No,No,No,Yes,No,No,No,Yes
+0169,SMTRACK,SMTRACK BERHAD,Technology,Ace Market,0.185,-0.10,-0.14,Yes,No,No,No,Yes,Yes,No,No
+8052,CGB,CENTRAL GLOBAL BERHAD,Industrial Products & Services,Main Market,0.355,-0.08,-0.15,Yes,No,No,No,Yes,No,No,No
+0131,DGSB,DIVERSIFIED GATEWAY SOLUTIONS BERHAD,Technology,Ace Market,0.165,-0.86,-0.15,No,No,No,No,No,No,No,No
+5104,CNI,CNI HOLDINGS BERHAD,Consumer Products & Services,Main Market,0.080,-0.02,-0.21,Yes,Yes,No,Yes,No,Yes,No,No
+8877,EKOVEST,EKOVEST BERHAD,Construction,Main Market,0.545,-0.20,-0.22,No,No,No,No,No,No,No,No
+5148,UEMS,UEM SUNRISE BERHAD,Property,Main Market,0.485,-0.35,-0.23,No,No,No,No,No,No,No,No
+5253,ECONBHD,ECONPILE HOLDINGS BERHAD,Construction,Main Market,0.525,-0.07,-0.23,No,No,No,No,No,No,No,No
+5275,MYNEWS,MYNEWS HOLDINGS BERHAD,Consumer Products & Services,Main Market,0.690,-0.13,-0.30,No,No,No,No,No,No,No,No
+7115,SKBSHUT,SKB SHUTTERS CORPORATION BERHAD,Industrial Products & Services,Main Market,0.600,-0.87,-0.42,No,No,No,No,No,No,No,No
+5225,IHH,IHH HEALTHCARE BERHAD,Health Care,Main Market,5.750,-1.02,-0.42,No,No,No,Yes,No,No,No,No
+8532,PERTAMA,PERTAMA DIGITAL BERHAD,Consumer Products & Services,Main Market,0.345,-0.13,-0.43,Yes,No,No,No,No,No,No,No
+5239,TITIJYA,TITIJAYA LAND BERHAD,Property,Main Market,0.410,-0.36,-0.43,No,No,No,No,No,No,No,No
+7170,LFECORP,LFE CORPORATION BERHAD,Industrial Products & Services,Main Market,0.205,-0.07,-0.46,Yes,No,No,No,Yes,No,No,No
+6084,STAR,STAR MEDIA GROUP BERHAD,Telecommunications & Media,Main Market,0.370,-0.51,-0.47,No,No,No,Yes,No,No,No,No
+7036,BORNOIL,BORNEO OIL BERHAD,Industrial Products & Services,Main Market,0.045,-0.06,-0.47,Yes,No,No,No,No,No,No,No
+0025,YBS,YBS INTERNATIONAL BERHAD,Industrial Products & Services,Ace Market,0.165,-0.13,-0.50,No,No,No,No,No,No,No,No
+5109,YTLREIT,YTL HOSPITALITY REIT,Real Estate Investment Trusts,Main Market,0.915,-0.79,-0.52,No,No,No,No,No,No,No,No
+5015,APM,APM AUTOMOTIVE HOLDINGS BERHAD,Industrial Products & Services,Main Market,2.450,-3.36,-0.53,No,No,No,No,No,No,No,No
+9741,ROHAS,ROHAS TECNIC BERHAD,Industrial Products & Services,Main Market,0.340,-0.37,-0.53,No,No,No,No,No,No,No,No
+8397,TNLOGIS,TIONG NAM LOGISTICS HOLDINGS BERHAD,Transportation & Logistics,Main Market,0.870,-0.83,-0.54,Yes,No,No,Yes,No,No,No,No
+7285,TOMYPAK,TOMYPAK HOLDINGS BERHAD,Industrial Products & Services,Main Market,0.720,-0.24,-0.55,Yes,Yes,No,No,No,No,No,No
+5170,SCABLE,SARAWAK CABLE BERHAD,Industrial Products & Services,Main Market,0.280,-27.97,-0.61,No,No,No,Yes,No,No,No,No
+5073,NAIM,NAIM HOLDINGS BERHAD,Property,Main Market,0.790,-1.63,-0.63,No,No,No,No,No,No,No,No
+0086,YGL,YGL CONVERGENCE BERHAD,Technology,Ace Market,0.155,-2.96,-0.64,No,No,No,No,No,No,Yes,No
+8567,SALCON,SALCON BERHAD,Utilities,Main Market,0.280,-0.40,-0.78,No,Yes,No,No,Yes,No,No,Yes
+3662,MFLOUR,MALAYAN FLOUR MILLS BERHAD,Consumer Products & Services,Main Market,0.680,-0.85,-0.81,No,No,No,No,Yes,No,No,No
+0111,K1,K-ONE TECHNOLOGY BERHAD,Technology,Ace Market,0.350,-0.12,-0.83,No,No,No,No,No,No,No,No
+7131,ACME,ACME HOLDINGS BERHAD,Property,Main Market,0.465,-0.27,-0.83,No,No,No,No,Yes,No,No,Yes
+1201,SUMATEC,SUMATEC RESOURCES BERHAD,Energy,Main Market,0.005,-0.10,-0.85,Yes,No,No,No,No,No,No,No
+0176,KRONO,KRONOLOGI ASIA BERHAD,Technology,Ace Market,0.625,-0.39,-0.86,No,No,No,No,Yes,No,No,No
+3573,LIENHOE,LIEN HOE CORPORATION BERHAD,Property,Main Market,0.275,-1.18,-0.88,Yes,No,No,No,No,No,No,No
+0162,WIDAD,WIDAD GROUP BERHAD,Construction,Ace Market,0.680,-0.06,-0.92,No,No,No,No,No,No,No,No
+2135,GOPENG,GOPENG BERHAD,Plantation,Main Market,0.650,-0.98,-0.94,No,No,No,No,Yes,Yes,No,No
+5121,HEKTAR,HEKTAR REAL ESTATE INVESTMENT TRUST,Real Estate Investment Trusts,Main Market,0.675,-1.27,-0.95,No,No,No,No,No,No,No,No
+7811,SAPIND,SAPURA INDUSTRIAL BERHAD,Industrial Products & Services,Main Market,0.750,-1.42,-1.00,No,No,No,Yes,No,No,No,No
+9334,KESM,KESM INDUSTRIES BERHAD,Technology,Main Market,11.720,-8.53,-1.03,No,No,No,No,No,No,No,No
+3816,MISC,MISC BERHAD,Transportation & Logistics,Main Market,6.430,-7.82,-1.06,No,Yes,No,No,Yes,No,No,No
+9938,BRIGHT,BRIGHT PACKAGING INDUSTRY BERHAD,Industrial Products & Services,Main Market,0.255,-0.60,-1.06,No,No,No,No,No,No,Yes,No
+5070,PRTASCO,PROTASCO BERHAD,Construction,Main Market,0.250,-0.73,-1.08,Yes,No,No,No,Yes,No,No,Yes
+5108,ICAP,ICAPITAL.BIZ BERHAD,Closed-End Fund,Main Market,2.100,-3.37,-1.18,No,No,No,No,No,No,No,No
+1007,AMPROP,AMCORP PROPERTIES BERHAD,Property,Main Market,0.445,-1.67,-1.20,No,No,No,No,No,No,No,No
+7943,SNC,SAND NISKO CAPITAL BERHAD,Consumer Products & Services,Main Market,0.290,-0.41,-1.25,Yes,No,No,No,Yes,Yes,No,No
+0056,GRANFLO,GRAND-FLO BERHAD,Technology,Main Market,0.305,-0.25,-1.26,No,No,No,No,No,No,No,No
+0191,CABNET,CABNET HOLDINGS BERHAD,Technology,Ace Market,0.240,-0.34,-1.29,No,No,No,No,No,No,No,No
+5622,PEB,PIMPINAN EHSAN BERHAD,Construction,Main Market,0.700,-1.32,-1.30,Yes,Yes,No,No,No,No,No,Yes
+5048,YILAI,YI-LAI BERHAD,Industrial Products & Services,Main Market,0.885,-1.75,-1.31,Yes,No,No,Yes,No,No,No,No
+8494,LBICAP,LBI CAPITAL BERHAD,Property,Main Market,0.570,-1.92,-1.40,No,No,No,No,No,No,No,No
+7117,CJCEN,CJ CENTURY LOGISTICS HOLDINGS BERHAD,Transportation & Logistics,Main Market,0.475,-1.05,-1.50,No,Yes,No,No,Yes,No,No,Yes
+6149,METROD,METROD HOLDINGS BERHAD,Industrial Products & Services,Main Market,1.300,-5.15,-1.52,No,No,No,No,No,No,No,No
+0119,APPASIA,APPASIA BERHAD,Technology,Ace Market,0.685,-0.12,-1.52,No,No,Yes,No,No,No,No,No
+7096,GPA,GPA HOLDINGS BERHAD,Industrial Products & Services,Main Market,0.140,-0.17,-1.52,No,No,No,No,No,No,No,No
+3042,PETRONM,PETRON MALAYSIA REFINING & MARKETING BHD,Energy,Main Market,5.120,-9.77,-1.55,No,No,No,Yes,No,No,No,No
+0093,SOLUTN,SOLUTION GROUP BERHAD,Technology,Ace Market,1.590,-0.19,-1.55,Yes,No,Yes,Yes,No,No,No,Yes
+3182,GENTING,GENTING BERHAD,Consumer Products & Services,Main Market,4.650,-13.42,-1.56,No,No,No,No,No,No,No,No
+7374,TIENWAH,TIEN WAH PRESS HOLDINGS BERHAD,Industrial Products & Services,Main Market,0.935,-3.11,-1.56,Yes,No,No,No,No,No,No,No
+4677,YTL,YTL CORPORATION BERHAD,Utilities,Main Market,0.800,-1.85,-1.58,No,No,No,No,No,No,No,No
+7121,XIANLNG,XIAN LENG HOLDINGS BERHAD,Consumer Products & Services,Main Market,0.560,-0.98,-1.61,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+7086,ABLEGRP,ABLEGROUP BERHAD,Industrial Products & Services,Main Market,0.130,-0.26,-1.64,Yes,No,No,No,No,No,No,No
+9628,LEBTECH,LEBTECH BERHAD,Construction,Main Market,1.100,-1.56,-1.66,No,No,No,Yes,No,No,No,No
+6572,KWANTAS,KWANTAS CORPORATION BERHAD,Plantation,Main Market,1.610,-6.17,-1.70,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+5022,PAOS,PAOS HOLDINGS BERHAD,Consumer Products & Services,Main Market,0.325,-0.87,-1.70,No,No,No,No,No,Yes,No,No
+9407,PARAGON,PARAGON UNION BERHAD,Consumer Products & Services,Main Market,0.680,-0.98,-1.72,No,No,No,No,No,No,No,No
+0059,ECOHLDS,ECOBUILT HOLDINGS BERHAD,Telecommunications & Media,Main Market,0.195,-0.65,-1.72,No,No,No,No,Yes,Yes,No,No
+7412,SHH,SHH RESOURCES HOLDINGS BERHAD,Consumer Products & Services,Main Market,1.000,-2.34,-1.77,Yes,No,No,No,Yes,No,No,No
+7186,SWSCAP,SWS CAPITAL BERHAD,Consumer Products & Services,Main Market,0.770,-0.90,-1.81,Yes,No,Yes,Yes,Yes,No,No,Yes
+5188,CNOUHUA,CHINA OUHUA WINERY HOLDINGS LIMITED,Consumer Products & Services,Main Market,0.060,-0.33,-1.82,Yes,No,No,No,No,No,No,No
+5087,MYCRON,MYCRON STEEL BERHAD,Industrial Products & Services,Main Market,0.420,-2.17,-1.83,Yes,Yes,No,Yes,No,No,No,No
+9091,EMICO,EMICO HOLDINGS BERHAD,Consumer Products & Services,Main Market,0.290,-0.80,-1.91,No,No,No,No,No,No,No,No
+3395,BJCORP,BERJAYA CORPORATION BERHAD,Industrial Products & Services,Main Market,0.185,-2.41,-1.93,Yes,No,No,No,No,No,No,No
+5192,KSSC,K.SENG SENG CORPORATION BERHAD,Industrial Products & Services,Main Market,0.530,-1.59,-1.96,No,No,No,Yes,No,No,No,Yes
+7201,PICORP,PROGRESSIVE IMPACT CORPORATION BERHAD,Industrial Products & Services,Main Market,0.110,-0.22,-2.02,No,No,No,No,No,No,No,Yes
+7246,SIGN,SIGNATURE INTERNATIONAL BERHAD,Consumer Products & Services,Main Market,0.405,-1.42,-2.06,No,No,No,No,No,No,No,No
+4758,ANCOM,ANCOM BERHAD,Industrial Products & Services,Main Market,0.890,-2.89,-2.07,No,No,No,No,No,No,No,No
+0133,SANICHI,SANICHI TECHNOLOGY BERHAD,Industrial Products & Services,Ace Market,0.060,-0.41,-2.17,Yes,Yes,No,No,Yes,No,No,No
+7165,KTG,KTG BERHAD,Industrial Products & Services,Main Market,0.305,-1.04,-2.22,Yes,Yes,No,No,Yes,Yes,No,No
+5090,MEDIAC,MEDIA CHINESE INTERNATIONAL LIMITED,Telecommunications & Media,Main Market,0.175,-0.88,-2.22,Yes,No,No,No,No,No,No,No
+1198,MAA,MAA GROUP BERHAD,Financial Services,Main Market,0.770,-4.10,-2.22,Yes,Yes,No,No,Yes,Yes,No,Yes
+9318,FITTERS,FITTERS DIVERSIFIED BERHAD,Industrial Products & Services,Main Market,0.265,-1.75,-2.26,No,No,No,No,No,No,No,No
+8044,CFM,COMPUTER FORMS (MALAYSIA) BERHAD,Industrial Products & Services,Main Market,2.200,-2.55,-2.34,No,Yes,No,No,No,No,No,No
+0833EA,HSCEI-1XI,TRADEPLUS HSCEI DAILY (-1X) INVERSE TRACKER,None,None,1.830,-9.67,-2.37,No,No,No,Yes,No,No,No,Yes
+3948,DUTALND,DUTALAND BERHAD,Plantation,Main Market,0.370,-3.52,-2.38,No,No,No,No,Yes,Yes,Yes,Yes
+0048,ANCOMLB,ANCOM LOGISTICS BERHAD,Transportation & Logistics,Ace Market,0.380,-0.12,-2.39,No,No,No,No,No,No,No,No
+2224,SDRED,SELANGOR DREDGING BERHAD,Property,Main Market,0.510,-4.68,-2.39,No,No,No,No,No,No,No,No
+4219,BJLAND,BERJAYA LAND BERHAD,Consumer Products & Services,Main Market,0.195,-1.96,-2.42,No,No,No,No,No,No,No,No
+1619,DRBHCOM,DRB-HICOM BERHAD,Consumer Products & Services,Main Market,2.060,-8.23,-2.43,No,No,No,No,No,No,No,No
+0170,KANGER,KANGER INTERNATIONAL BERHAD,Consumer Products & Services,Ace Market,0.150,-0.27,-2.50,No,No,No,No,No,No,No,No
+8591,CRESBLD,CREST BUILDER HOLDINGS BERHAD,Construction,Main Market,0.735,-7.60,-2.58,No,No,No,No,No,No,No,No
+2607,INCKEN,INCH KENNETH KAJANG RUBBER PUBLIC LTD CO,Plantation,Main Market,0.520,-4.17,-2.59,No,No,No,No,No,No,Yes,No
+8664,SPSETIA,S P SETIA BERHAD,Property,Main Market,1.070,-7.55,-2.61,No,No,No,No,No,No,No,No
+2682,AISB,AMALGAMATED INDUSTRIAL STEEL BERHAD,Property,Main Market,0.260,-2.58,-2.68,No,No,No,No,No,No,No,Yes
+7889,THRIVEN,THRIVEN GLOBAL BERHAD,Property,Main Market,0.205,-0.95,-2.72,No,No,No,No,No,No,No,No
+6041,FARLIM,FARLIM GROUP (MALAYSIA) BHD,Property,Main Market,0.265,-2.80,-2.72,Yes,Yes,No,No,Yes,Yes,Yes,Yes
+7190,PPG,PELANGI PUBLISHING GROUP BHD.,Telecommunications & Media,Main Market,0.340,-2.65,-2.73,No,No,No,No,No,No,No,No
+7080,PERMAJU,PERMAJU INDUSTRIES BERHAD,Consumer Products & Services,Main Market,0.170,-1.40,-2.74,No,No,No,No,No,No,No,No
+5047,NPC,NPC RESOURCES BERHAD,Plantation,Main Market,1.910,-11.32,-2.74,Yes,No,No,No,Yes,Yes,No,No
+9539,MUH,MULTI-USAGE HOLDINGS BERHAD,Property,Main Market,0.295,-3.14,-2.76,No,No,No,No,No,No,No,No
+1503,GUOCO,GUOCOLAND (MALAYSIA) BERHAD,Property,Main Market,0.660,-5.11,-2.77,Yes,No,No,Yes,Yes,Yes,No,No
+5182,MCT,MCT BERHAD,Property,Main Market,0.200,-1.67,-2.81,No,No,No,No,No,No,No,No
+7544,QUALITY,QUALITY CONCRETE HOLDINGS BERHAD,Industrial Products & Services,Main Market,1.010,-4.89,-2.85,Yes,No,No,No,No,No,No,No
+0060,VC,VORTEX CONSOLIDATED BERHAD,Technology,Ace Market,0.055,-0.44,-2.85,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+7134,PWF,PWF CORPORATION BERHAD,Consumer Products & Services,Main Market,0.515,-5.15,-2.93,No,No,No,No,No,No,No,No
+3611,PGLOBE,PARAGON GLOBE BERHAD,Property,Main Market,0.625,-3.76,-2.94,No,No,No,No,No,No,No,No
+5242,SOLID,SOLID AUTOMOTIVE BERHAD,Consumer Products & Services,Main Market,0.215,-1.10,-2.98,No,No,No,Yes,Yes,No,No,Yes
+9679,WCT,WCT HOLDINGS BERHAD,Construction,Main Market,0.545,-6.68,-3.00,Yes,No,No,No,No,No,No,No
+8907,EG,EG INDUSTRIES BERHAD,Industrial Products & Services,Main Market,0.530,-3.52,-3.01,No,No,No,Yes,No,No,No,Yes
+8672,KAMDAR,KAMDAR GROUP (M) BERHAD,Consumer Products & Services,Main Market,0.275,-3.34,-3.07,No,No,No,No,No,No,No,No
+5098,MASTEEL,MALAYSIA STEEL WORKS (KL) BHD,Industrial Products & Services,Main Market,0.420,-4.91,-3.09,Yes,No,No,No,Yes,No,No,Yes
+0203,SMETRIC,SECUREMETRIC BERHAD,Technology,Ace Market,0.140,-0.25,-3.19,No,No,No,No,No,No,No,No
+5101,EVERGRN,EVERGREEN FIBREBOARD BERHAD,Industrial Products & Services,Main Market,0.480,-4.28,-3.19,No,No,Yes,Yes,No,No,No,No
+6637,PNEPCB,PNE PCB BERHAD,Industrial Products & Services,Main Market,0.505,-1.28,-3.21,Yes,Yes,No,Yes,No,No,No,Yes
+4405,TCHONG,TAN CHONG MOTOR HOLDINGS BERHAD,Consumer Products & Services,Main Market,1.150,-14.43,-3.23,No,No,No,No,No,No,No,No
+7094,EUROSP,EUROSPAN HOLDINGS BERHAD,Consumer Products & Services,Main Market,0.585,-3.10,-3.26,Yes,No,No,Yes,No,No,No,No
+0037,RGB,RGB INTERNATIONAL BHD,Consumer Products & Services,Main Market,0.145,-0.49,-3.28,No,No,No,No,No,No,No,No
+7935,MILUX,MILUX CORPORATION BERHAD,Consumer Products & Services,Main Market,2.200,-2.30,-3.29,Yes,Yes,No,Yes,Yes,No,No,Yes
+5267,XINHWA,XIN HWA HOLDINGS BERHAD,Transportation & Logistics,Main Market,0.420,-2.70,-3.30,No,No,No,No,No,No,No,No
+0181,AEMULUS,AEMULUS HOLDINGS BERHAD,Technology,Ace Market,0.625,-0.60,-3.32,No,Yes,No,Yes,No,No,No,No
+5517,SHANG,SHANGRI-LA HOTELS (MALAYSIA) BERHAD,Consumer Products & Services,Main Market,4.000,-7.27,-3.32,No,No,No,No,No,No,No,No
+0050,SYSTECH,SYSTECH BHD,Technology,Ace Market,0.210,-0.50,-3.39,No,No,No,No,No,No,No,No
+6009,P&O,PACIFIC & ORIENT BERHAD,Financial Services,Main Market,0.870,-3.43,-3.39,No,No,No,No,No,No,No,No
+7498,RALCO,RALCO CORPORATION BERHAD,Industrial Products & Services,Main Market,1.000,-2.75,-3.40,Yes,No,No,Yes,No,No,No,No
+6807,PUNCAK,PUNCAK NIAGA HOLDINGS BERHAD,Construction,Main Market,0.425,-9.70,-3.42,Yes,No,No,No,Yes,No,No,No
+0160,HHHCORP,HIAP HUAT HOLDINGS BERHAD,Industrial Products & Services,Ace Market,0.110,-0.66,-3.47,No,No,No,No,No,No,No,No
+5288,SIMEPROP,SIME DARBY PROPERTY BERHAD,Property,Main Market,0.710,-4.70,-3.48,No,No,No,No,No,No,No,No
+0217,PWRWELL,POWERWELL HOLDINGS BERHAD,Industrial Products & Services,Ace Market,0.260,-0.45,-3.49,No,No,No,No,No,No,No,No
+5196,BJFOOD,BERJAYA FOOD BERHAD,Consumer Products & Services,Main Market,1.470,-3.44,-3.55,No,No,No,Yes,No,Yes,No,No
+5916,MSC,MALAYSIA SMELTING CORPORATION BERHAD,Industrial Products & Services,Main Market,1.060,-3.23,-3.55,No,No,No,No,No,No,No,No
+4456,DNEX,DAGANG NEXCHANGE BERHAD,Technology,Main Market,0.220,-0.93,-3.58,No,No,No,No,No,No,No,No
+2593,UMCCA,UNITED MALACCA BERHAD,Plantation,Main Market,5.110,-22.44,-3.59,No,No,No,No,Yes,Yes,No,Yes
+5265,DOLPHIN,DOLPHIN INTERNATIONAL BERHAD,Industrial Products & Services,Main Market,0.085,-0.26,-3.62,No,No,No,No,Yes,No,No,No
+7016,CHUAN,CHUAN HUAT RESOURCES BHD,Industrial Products & Services,Main Market,0.390,-6.41,-3.66,No,No,No,Yes,No,No,No,No
+9946,REX,REX INDUSTRY BERHAD,Consumer Products & Services,Main Market,0.230,-1.54,-3.76,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+0010,IRIS,IRIS CORPORATION BERHAD,Technology,Ace Market,0.365,-0.36,-3.78,No,No,No,No,No,No,No,No
+7014,YLI,YLI HOLDINGS BERHAD,Industrial Products & Services,Main Market,0.360,-4.52,-3.89,Yes,Yes,No,Yes,No,No,No,Yes
+6904,SUBUR,SUBUR TIASA HOLDINGS BERHAD,Industrial Products & Services,Main Market,0.780,-11.80,-4.10,Yes,No,No,No,Yes,No,No,No
+7048,ATLAN,ATLAN HOLDINGS BHD,Consumer Products & Services,Main Market,3.630,-7.43,-4.10,No,No,No,No,No,No,No,No
+0079,ORION,ORION IXL BERHAD,Technology,Ace Market,0.085,-0.54,-4.11,No,No,No,No,Yes,No,No,No
+7382,GLBHD,GOLDEN LAND BERHAD,Plantation,Main Market,0.420,-7.60,-4.15,Yes,Yes,No,No,Yes,No,No,No
+7055,PLB,PLB ENGINEERING BERHAD,Property,Main Market,1.100,-5.46,-4.20,No,No,No,No,No,No,No,No
+0064,EFFICEN,EFFICIENT E-SOLUTIONS BERHAD,Industrial Products & Services,Main Market,0.180,-0.76,-4.23,Yes,Yes,No,No,Yes,Yes,No,No
+03011,AMLEX,AMLEX HOLDINGS BERHAD,Technology,Leap Market,0.215,-0.44,-4.29,No,Yes,No,Yes,No,Yes,No,Yes
+5199,HIBISCS,HIBISCUS PETROLEUM BERHAD,Energy,Main Market,0.620,-3.23,-4.30,No,No,No,No,No,No,No,No
+0123,PRIVA,PRIVASIA TECHNOLOGY BERHAD,Telecommunications & Media,Ace Market,0.165,-0.48,-4.32,Yes,Yes,No,No,No,No,No,No
+1651,MRCB,MALAYSIAN RESOURCES CORPORATION BERHAD,Property,Main Market,0.495,-4.47,-4.33,No,No,No,No,No,No,No,No
+0055,SERSOL,SERSOL BERHAD,Industrial Products & Services,Ace Market,0.195,-0.30,-4.33,No,No,No,No,Yes,No,No,No
+0822EA,PAM-A40M,PRINCIPAL FTSE ASEAN 40 MALAYSIA ETF,ETF-Equity,ETF,1.660,-6.74,-4.35,No,No,No,No,No,No,No,No
+7146,AEM,AE MULTI HOLDINGS BERHAD,Industrial Products & Services,Main Market,0.150,-0.65,-4.37,No,No,No,No,Yes,No,No,Yes
+0029,DIGISTA,DIGISTAR CORPORATION BERHAD,Technology,Main Market,0.090,-0.32,-4.54,Yes,No,No,No,No,No,No,No
+5014,AIRPORT,MALAYSIA AIRPORTS HOLDINGS BERHAD,Transportation & Logistics,Main Market,5.780,-24.21,-4.56,No,No,No,No,No,No,No,No
+7197,GESHEN,GE-SHEN CORPORATION BERHAD,Industrial Products & Services,Main Market,0.885,-4.00,-4.60,Yes,Yes,No,Yes,Yes,No,No,Yes
+9431,SJC,SENI JAYA CORPORATION BERHAD,Telecommunications & Media,Main Market,0.880,-5.78,-4.63,No,No,No,No,No,No,No,No
+7079,TIGER,TIGER SYNERGY BERHAD,Property,Main Market,0.155,-0.94,-4.68,No,No,No,No,No,No,No,No
+03026,FBBHD,FIBROMAT (M) BERHAD,Industrial Products & Services,Leap Market,0.330,-0.94,-4.69,No,No,No,Yes,No,No,No,No
+7676,GCAP,G CAPITAL BERHAD,Transportation & Logistics,Main Market,0.855,-1.86,-4.71,Yes,Yes,No,No,No,No,No,No
+4383,JTIASA,JAYA TIASA HOLDINGS BHD,Plantation,Main Market,0.935,-5.59,-4.74,Yes,Yes,No,Yes,Yes,No,No,No
+7208,EURO,EURO HOLDINGS BERHAD,Consumer Products & Services,Main Market,2.260,-1.03,-4.76,Yes,No,No,Yes,No,No,No,Yes
+5738,CHHB,COUNTRY HEIGHTS HOLDINGS BHD,Property,Main Market,1.300,-14.05,-4.78,Yes,Yes,No,No,No,No,No,No
+5197,FLBHD,FOCUS LUMBER BERHAD,Industrial Products & Services,Main Market,0.900,-8.11,-4.88,No,Yes,No,No,No,No,No,No
+5592,GCE,GRAND CENTRAL ENTERPRISES BHD,Consumer Products & Services,Main Market,0.350,-5.10,-4.90,No,No,No,No,No,No,No,No
+8648,JASKITA,JASA KITA BERHAD,Industrial Products & Services,Main Market,0.105,-0.70,-5.00,Yes,No,No,Yes,No,No,No,No
+5000,HUMEIND,HUME CEMENT INDUSTRIES BERHAD,Industrial Products & Services,Main Market,1.110,-4.10,-5.13,Yes,Yes,No,No,No,No,No,No
+7617,MAGNA,MAGNA PRIMA BERHAD,Property,Main Market,0.650,-7.50,-5.32,Yes,Yes,No,No,Yes,No,No,No
+8141,MJPERAK,MAJUPERAK HOLDINGS BERHAD,Property,Main Market,0.385,-3.39,-5.38,No,No,No,No,Yes,No,No,No
+2054,TDM,TDM BERHAD,Plantation,Main Market,0.330,-2.36,-5.49,Yes,Yes,No,Yes,Yes,No,No,Yes
+03019,MPSOL,MATRIX PARKING SOLUTION HOLDINGS BERHAD,Consumer Products & Services,Leap Market,0.170,-0.21,-5.52,No,No,No,No,No,No,No,No
+8702,TEXCHEM,TEXCHEM RESOURCES BERHAD,Industrial Products & Services,Main Market,0.600,-10.47,-5.55,No,No,No,Yes,No,No,No,No
+5021,AYS,AYS VENTURES BERHAD,Industrial Products & Services,Main Market,0.300,-3.68,-5.57,No,No,No,No,Yes,No,No,No
+7139,NICE,NICHE CAPITAL EMAS HOLDINGS BERHAD,Consumer Products & Services,Main Market,0.235,-0.28,-5.65,Yes,Yes,No,Yes,Yes,Yes,No,No
+7010,HOOVER,GRAND HOOVER BERHAD,Property,Main Market,0.750,-5.99,-5.65,Yes,No,No,Yes,No,No,No,Yes
+5187,HBGLOB,HB GLOBAL LIMITED,Consumer Products & Services,Main Market,0.150,-2.38,-5.67,No,No,No,No,No,No,No,No
+1643,LANDMRK,LANDMARKS BERHAD,Consumer Products & Services,Main Market,0.345,-18.74,-5.70,No,No,No,No,No,No,No,No
+3794,MCEMENT,MALAYAN CEMENT BERHAD,Industrial Products & Services,Main Market,2.400,-15.48,-5.76,Yes,No,No,Yes,No,No,No,No
+7108,PERDANA,PERDANA PETROLEUM BERHAD,Energy,Main Market,0.175,-2.25,-5.77,No,No,No,No,No,No,No,No
+03022,MCOM,MCOM HOLDINGS BERHAD,Technology,Leap Market,0.260,-0.50,-5.79,No,No,No,No,No,No,No,No
+0026,NOVAMSC,NOVA MSC BERHAD,Technology,Ace Market,0.095,-0.44,-5.96,No,No,No,No,No,No,No,No
+0118,TRIVE,TRIVE PROPERTY GROUP BERHAD,Technology,Main Market,0.010,-0.12,-5.96,No,No,No,No,Yes,No,No,No
+5371,KIMHIN,KIM HIN INDUSTRY BERHAD,Industrial Products & Services,Main Market,0.845,-17.24,-6.01,Yes,Yes,No,Yes,No,No,No,Yes
+7054,AASIA,ASTRAL ASIA BERHAD,Plantation,Main Market,0.140,-1.66,-6.09,No,No,No,No,Yes,No,No,Yes
+5252,SASBADI,SASBADI HOLDINGS BERHAD,Telecommunications & Media,Main Market,0.135,-2.14,-6.10,No,No,No,No,No,No,No,No
+5254,BPLANT,BOUSTEAD PLANTATIONS BERHAD,Plantation,Main Market,0.615,-7.02,-6.10,No,No,Yes,No,Yes,Yes,No,Yes
+9342,ANZO,ANZO HOLDINGS BERHAD,Industrial Products & Services,Main Market,0.090,-0.93,-6.16,No,No,No,No,Yes,Yes,Yes,Yes
+4464,PHB,PEGASUS HEIGHTS BERHAD,Property,Main Market,0.030,-0.09,-6.18,Yes,No,No,No,Yes,Yes,No,No
+5175,IVORY,IVORY PROPERTIES GROUP BERHAD,Property,Main Market,0.175,-4.84,-6.20,No,No,No,No,No,No,No,No
+0072,AT,AT SYSTEMATIZATION BERHAD,Industrial Products & Services,Ace Market,0.175,-0.36,-6.21,No,No,No,Yes,Yes,Yes,No,Yes
+6378,WMG,WMG HOLDINGS BERHAD,Property,Main Market,0.135,-2.64,-6.30,Yes,Yes,No,Yes,Yes,No,No,No
+0103,MNC,M N C WIRELESS BERHAD,Telecommunications & Media,Ace Market,0.055,-0.42,-6.34,No,No,No,No,No,No,No,No
+1902,PINEPAC,PINEHILL PACIFIC BERHAD,Plantation,Main Market,0.440,-8.90,-6.45,No,No,No,No,No,No,No,No
+8362,KYM,KYM HOLDINGS BERHAD,Industrial Products & Services,Main Market,0.360,-3.74,-6.57,No,Yes,No,No,No,No,No,No
+0041,HONGSENG,HONG SENG CONSOLIDATED BERHAD,Technology,Main Market,1.010,-1.42,-6.62,Yes,No,No,Yes,No,No,No,No
+3247,GUH,GUH HOLDINGS BERHAD,Industrial Products & Services,Main Market,0.415,-11.60,-6.70,No,No,No,No,No,No,No,No
+5037,COMPUGT,COMPUGATES HOLDINGS BERHAD,Industrial Products & Services,Main Market,0.025,-0.27,-6.74,No,No,No,No,No,Yes,No,No
+0183,SALUTE,SALUTICA BERHAD,Consumer Products & Services,Main Market,0.420,-2.43,-6.79,No,No,No,No,Yes,Yes,No,Yes
+3239,BJASSET,BERJAYA ASSETS BERHAD,Property,Main Market,0.305,-5.32,-6.83,No,No,No,No,No,No,No,No
+7004,MCEHLDG,MCE HOLDINGS BERHAD,Industrial Products & Services,Main Market,1.570,-11.85,-6.83,Yes,No,No,Yes,Yes,No,No,Yes
+7082,SYF,SYF RESOURCES BERHAD,Consumer Products & Services,Main Market,0.335,-2.60,-6.85,Yes,Yes,No,Yes,No,No,No,Yes
+7250,UZMA,UZMA BERHAD,Energy,Main Market,0.600,-9.80,-6.94,No,No,No,No,Yes,No,No,No
+5036,EDARAN,EDARAN BERHAD,Technology,Main Market,0.365,-2.78,-6.96,Yes,Yes,No,No,Yes,Yes,Yes,No
+7154,CAELY,CAELY HOLDINGS BHD,Consumer Products & Services,Main Market,0.460,-3.32,-7.06,No,No,No,No,No,No,No,No
+7773,EPMB,EP MANUFACTURING BHD,Industrial Products & Services,Main Market,0.310,-11.14,-7.10,No,No,No,No,No,No,No,No
+7005,BIG,B.I.G. INDUSTRIES BERHAD,Industrial Products & Services,Main Market,0.465,-3.88,-7.19,No,No,No,No,No,No,No,No
+4944,NYLEX,NYLEX (MALAYSIA) BERHAD,Industrial Products & Services,Main Market,0.665,-12.14,-7.27,No,No,No,No,No,No,No,No
+7692,WIDETEC,WIDETECH (MALAYSIA) BERHAD,Industrial Products & Services,Main Market,0.595,-5.85,-7.40,No,No,No,No,Yes,No,No,Yes
+5113,RSAWIT,RIMBUNAN SAWIT BERHAD,Plantation,Main Market,0.290,-1.57,-7.48,Yes,No,No,No,Yes,Yes,No,Yes
+6556,ANNJOO,ANN JOO RESOURCES BERHAD,Industrial Products & Services,Main Market,1.170,-15.48,-7.55,No,No,No,No,No,No,No,No
+4596,SAPRES,SAPURA RESOURCES BERHAD,Property,Main Market,0.480,-22.30,-7.66,No,No,No,No,No,No,No,No
+3565,WCEHB,WCE HOLDINGS BERHAD,Construction,Main Market,0.375,-6.47,-7.76,No,No,No,No,No,No,No,No
+0035,OPCOM,OPCOM HOLDINGS BERHAD,Telecommunications & Media,Ace Market,0.380,-3.97,-7.88,No,Yes,No,Yes,No,No,No,Yes
+7066,YONGTAI,YONG TAI BERHAD,Property,Main Market,0.315,-4.26,-8.04,Yes,Yes,No,Yes,No,No,No,Yes
+2674,ALCOM,ALCOM GROUP BERHAD,Industrial Products & Services,Main Market,0.560,-6.87,-8.18,No,No,No,No,No,No,No,No
+03029,GPP,GPP RESOURCES BERHAD,Industrial Products & Services,Leap Market,0.295,-1.42,-8.21,No,No,No,No,No,No,No,No
+5210,ARMADA,BUMI ARMADA BERHAD,Energy,Main Market,0.370,-4.31,-8.29,Yes,No,No,No,Yes,Yes,No,No
+6912,PASDEC,PASDEC HOLDINGS BERHAD,Property,Main Market,0.225,-6.34,-8.34,No,No,No,No,No,No,No,No
+2097,EASTLND,EASTLAND EQUITY BHD,Consumer Products & Services,Main Market,0.150,-4.17,-8.34,No,No,No,Yes,No,No,No,No
+7043,JADEM,JADE MARVEL GROUP BERHAD,Industrial Products & Services,Main Market,0.950,-5.62,-8.39,No,No,No,No,No,No,No,No
+7986,CNASIA,CN ASIA CORPORATION BHD,Industrial Products & Services,Main Market,0.800,-6.91,-8.64,No,No,No,No,No,No,No,Yes
+2143,ECM,ECM LIBRA GROUP BERHAD,Financial Services,Main Market,0.250,-3.44,-8.82,No,No,No,No,No,No,No,No
+0006,PINEAPP,PINEAPPLE RESOURCES BERHAD,Technology,Ace Market,0.405,-4.19,-9.11,No,No,No,No,Yes,Yes,No,No
+7085,LTKM,LTKM BERHAD,Consumer Products & Services,Main Market,0.970,-21.71,-9.15,No,No,No,No,No,No,No,No
+5204,PRESBHD,PRESTARIANG BERHAD,Technology,Main Market,0.780,-1.82,-9.21,Yes,Yes,No,No,No,No,No,No
+2429,TANCO,TANCO HOLDINGS BERHAD,Property,Main Market,0.045,-1.16,-9.31,No,No,No,No,No,No,No,No
+6211,KIALIM,KIA LIM BERHAD,Industrial Products & Services,Main Market,0.240,-7.88,-9.34,No,No,No,No,No,No,No,No
+5165,DFCITY,DFCITY GROUP BERHAD,Industrial Products & Services,Main Market,0.460,-5.82,-9.40,No,Yes,Yes,Yes,No,No,No,No
+7168,PRG,PRG HOLDINGS BERHAD,Consumer Products & Services,Main Market,0.185,-4.04,-9.57,Yes,Yes,No,Yes,Yes,No,No,Yes
+5205,SENDAI,EVERSENDAI CORPORATION BERHAD,Construction,Main Market,0.235,-10.20,-9.62,No,No,No,No,No,No,No,No
+9016,EKSONS,EKSONS CORPORATION BERHAD,Industrial Products & Services,Main Market,0.585,-23.71,-9.72,No,No,No,No,Yes,No,No,No
+7120,ACOSTEC,ACOUSTECH BERHAD,Property,Main Market,0.220,-4.77,-9.74,No,No,No,No,No,No,No,No
+5107,IQGROUP,IQ GROUP HOLDINGS BERHAD,Consumer Products & Services,Main Market,0.920,-13.86,-9.83,No,Yes,No,No,No,Yes,No,No
+5001,MIECO,MIECO CHIPBOARD BERHAD,Industrial Products & Services,Main Market,0.840,-5.87,-9.96,Yes,No,No,Yes,No,No,No,Yes
+4995,VERSATL,VERSATILE CREATIVE BERHAD,Industrial Products & Services,Main Market,0.765,-2.59,-9.96,Yes,Yes,No,No,No,No,No,No
+7579,AWC,AWC BERHAD,Industrial Products & Services,Main Market,0.470,-6.21,-10.09,No,No,No,No,No,No,No,No
+0161,SCH,SCH GROUP BERHAD,Industrial Products & Services,Ace Market,0.100,-1.43,-10.17,No,No,No,No,Yes,No,No,Yes
+8192,MERCURY,MERCURY INDUSTRIES BERHAD,Construction,Main Market,0.930,-16.58,-10.25,No,No,No,No,No,No,No,No
+3417,E&O,EASTERN & ORIENTAL BERHAD,Property,Main Market,0.490,-12.64,-10.28,No,No,No,No,No,No,No,No
+5533,OCB,OCB BERHAD,Consumer Products & Services,Main Market,0.530,-19.25,-10.35,No,Yes,No,Yes,Yes,No,No,Yes
+8885,AVI,AVILLION BERHAD,Consumer Products & Services,Main Market,0.070,-2.21,-10.42,Yes,No,No,No,No,No,No,No
+0034,MMAG,MMAG HOLDINGS BERHAD,Technology,Ace Market,0.450,-1.49,-10.45,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+5932,BPURI,BINA PURI HOLDINGS BHD,Construction,Main Market,0.105,-3.28,-10.47,No,No,No,No,No,No,No,No
+7132,SMISCOR,SMIS CORPORATION BERHAD,Industrial Products & Services,Main Market,0.480,-12.91,-10.49,No,No,No,No,No,No,No,No
+4898,TA,TA ENTERPRISE BERHAD,Financial Services,Main Market,0.650,-13.98,-10.51,No,No,No,No,No,No,No,No
+03031,POLYDM,POLYDAMIC GROUP BERHAD,Industrial Products & Services,Leap Market,0.200,-2.35,-10.69,No,No,No,No,No,No,No,No
+4715,GENM,GENTING MALAYSIA BERHAD,Consumer Products & Services,Main Market,2.740,-29.02,-10.71,No,No,No,No,No,No,No,No
+0153,OVERSEA,OVERSEA ENTERPRISE BERHAD,Consumer Products & Services,Ace Market,0.690,-2.26,-10.77,No,No,No,Yes,No,No,No,No
+7053,SEEHUP,SEE HUP CONSOLIDATED BERHAD,Transportation & Logistics,Main Market,0.950,-9.87,-10.95,No,No,No,Yes,No,No,No,No
+5202,MSM,MSM MALAYSIA HOLDINGS BERHAD,Consumer Products & Services,Main Market,0.565,-23.86,-11.00,Yes,Yes,No,No,Yes,No,No,Yes
+0177,PASUKGB,PASUKHAS GROUP BERHAD,Industrial Products & Services,Ace Market,0.075,-1.00,-11.11,No,No,No,No,No,No,No,No
+5703,MUHIBAH,MUHIBBAH ENGINEERING (M) BHD,Construction,Main Market,0.950,-24.38,-11.18,No,No,No,No,No,No,No,No
+0102,CONNECT,CONNECTCOUNTY HOLDINGS BERHAD,Industrial Products & Services,Ace Market,0.200,-0.79,-11.22,Yes,Yes,Yes,Yes,No,Yes,No,No
+0147,INNITY,INNITY CORPORATION BERHAD,Telecommunications & Media,Ace Market,0.405,-2.59,-11.41,No,No,No,No,No,No,No,No
+0179,BIOHLDG,BIOALPHA HOLDINGS BERHAD,Consumer Products & Services,Ace Market,0.300,-1.81,-11.51,No,No,No,No,No,No,No,No
+0074,GOCEAN,GREEN OCEAN CORPORATION BERHAD,Consumer Products & Services,Ace Market,0.115,-0.63,-11.69,No,Yes,No,No,No,No,No,No
+7097,TAWIN,TA WIN HOLDINGS BERHAD,Industrial Products & Services,Main Market,0.185,-2.99,-11.77,No,No,No,No,No,No,No,No
+0178,SEDANIA,SEDANIA INNOVATOR BERHAD,Telecommunications & Media,Ace Market,0.150,-1.51,-11.79,No,No,No,No,Yes,No,No,No
+7007,ARK,ARK RESOURCES HOLDINGS BERHAD,Property,Main Market,0.330,-2.72,-12.38,Yes,Yes,Yes,Yes,Yes,No,No,No
+9083,JETSON,KUMPULAN JETSON BERHAD,Industrial Products & Services,Main Market,0.270,-4.44,-12.45,No,No,No,Yes,No,No,No,No
+4375,SMI,SOUTH MALAYSIA INDUSTRIES BERHAD,Property,Main Market,0.165,-9.25,-12.50,No,No,No,No,No,No,No,No
+5071,COASTAL,COASTAL CONTRACTS BHD,Energy,Main Market,0.710,-25.47,-12.54,No,No,No,No,Yes,No,No,No
+5009,WTHORSE,WHITE HORSE BERHAD,Industrial Products & Services,Main Market,0.650,-32.94,-12.62,No,No,No,Yes,No,No,No,No
+3018,OLYMPIA,OLYMPIA INDUSTRIES BERHAD,Consumer Products & Services,Main Market,0.095,-4.73,-12.78,No,No,No,No,No,No,No,No
+5649,GPHAROS,GOLDEN PHAROS BERHAD,Industrial Products & Services,Main Market,0.255,-6.65,-12.79,No,No,Yes,Yes,No,No,No,No
+6998,BINTAI,BINTAI KINDEN CORPORATION BERHAD,Industrial Products & Services,Main Market,0.720,-3.54,-13.10,No,Yes,No,No,No,No,No,No
+2259,TALAMT,TALAM TRANSFORM BERHAD,Property,Main Market,0.030,-1.06,-13.16,No,No,No,No,No,No,No,No
+6548,MPCORP,MALAYSIA PACIFIC CORPORATION BERHAD,Property,Main Market,0.200,-2.77,-13.20,Yes,No,No,No,No,Yes,No,No
+5158,TAGB,TA GLOBAL BERHAD,Property,Main Market,0.280,-7.05,-13.30,No,No,No,No,No,No,No,No
+5016,WARISAN,WARISAN TC HOLDINGS BERHAD,Consumer Products & Services,Main Market,1.450,-58.77,-13.36,No,No,No,No,No,No,No,No
+5226,GBGAQRS,GABUNGAN AQRS BERHAD,Construction,Main Market,0.710,-12.10,-13.45,No,No,No,No,No,No,No,No
+0043,MTRONIC,METRONIC GLOBAL BERHAD,Industrial Products & Services,Main Market,0.105,-1.08,-13.46,No,No,No,Yes,No,No,No,No
+7020,YKGI,YKGI HOLDINGS BERHAD,Industrial Products & Services,Main Market,0.165,-1.80,-13.84,Yes,No,Yes,Yes,No,No,No,No
+7025,WOODLAN,WOODLANDOR HOLDINGS BHD,Industrial Products & Services,Main Market,0.585,-12.77,-13.89,No,No,No,No,No,No,No,No
+0156,MPAY,MANAGEPAY SYSTEMS BERHAD,Technology,Ace Market,0.145,-1.53,-13.89,No,No,No,Yes,Yes,No,No,No
+9687,IDEAL,IDEAL UNITED BINTANG INTERNATIONAL BERHAD,Property,Main Market,1.020,-14.36,-13.89,No,No,No,No,No,No,No,No
+1147,GOB,GLOBAL ORIENTAL BERHAD,Property,Main Market,0.495,-7.79,-13.90,Yes,No,No,Yes,Yes,Yes,No,Yes
+7191,ADVENTA,ADVENTA BERHAD,Health Care,Main Market,1.640,-5.88,-14.00,No,No,No,No,Yes,Yes,No,No
+5145,SEALINK,SEALINK INTERNATIONAL BERHAD,Transportation & Logistics,Main Market,0.150,-8.55,-14.02,No,No,No,No,No,No,No,No
+1287,PMHLDG,PAN MALAYSIA HOLDINGS BERHAD,Consumer Products & Services,Main Market,0.100,-0.46,-14.14,No,No,No,No,No,No,No,No
+7218,TOCEAN,TRANSOCEAN HOLDINGS BHD,Transportation & Logistics,Main Market,0.790,-12.43,-14.28,No,No,No,No,No,No,No,No
+2925,CCB,CYCLE & CARRIAGE BINTANG BERHAD,Consumer Products & Services,Main Market,1.730,-33.89,-14.42,No,No,Yes,Yes,No,No,No,Yes
+5260,OWG,ONLY WORLD GROUP HOLDINGS BERHAD,Consumer Products & Services,Main Market,0.325,-10.83,-14.44,No,No,No,No,No,No,No,No
+7211,TAFI,TAFI INDUSTRIES BERHAD,Consumer Products & Services,Main Market,0.615,-6.83,-14.53,No,No,No,No,No,No,No,Yes
+0066,VSOLAR,VSOLAR GROUP BERHAD,Technology,Ace Market,0.045,-0.48,-14.79,No,No,No,No,Yes,No,No,Yes
+5025,NWP,NWP HOLDINGS BERHAD,Industrial Products & Services,Main Market,0.250,-1.06,-14.85,Yes,No,No,No,No,No,No,Yes
+7206,THHEAVY,TH HEAVY ENGINEERING BERHAD,Energy,Main Market,0.090,-0.38,-14.93,No,No,No,No,Yes,Yes,No,No
+03030,IDBTECH,IDB TECHNOLOGIES BERHAD,Technology,Leap Market,0.100,-0.22,-15.22,No,No,No,No,No,No,No,No
+5173,SYSCORP,SHIN YANG SHIPPING CORPORATION BERHAD,Transportation & Logistics,Main Market,0.225,-11.98,-15.36,No,Yes,No,Yes,No,No,No,No
+7241,NGGB,NEXTGREEN GLOBAL BERHAD,Industrial Products & Services,Main Market,0.400,-3.55,-15.43,No,Yes,No,Yes,Yes,No,No,Yes
+9601,HWGB,HO WAH GENTING BERHAD,Industrial Products & Services,Main Market,0.645,-1.24,-15.55,Yes,No,No,No,Yes,No,Yes,Yes
+7219,MINETEC,MINETECH RESOURCES BERHAD,Industrial Products & Services,Main Market,0.205,-1.26,-15.76,No,No,No,No,No,No,No,No
+9377,FSBM,FSBM HOLDINGS BERHAD,Technology,Main Market,0.130,-0.47,-15.78,No,No,No,No,No,No,No,Yes
+5085,MUDAJYA,MUDAJAYA GROUP BERHAD,Construction,Main Market,0.275,-3.65,-15.87,Yes,No,No,No,No,No,No,No
+03020,TTV,TT VISION HOLDINGS BERHAD,Technology,Leap Market,0.205,-2.37,-16.15,No,No,No,No,No,No,No,No
+8311,PESONA,PESONA METRO HOLDINGS BERHAD,Construction,Main Market,0.240,-3.63,-16.26,No,No,No,No,Yes,No,No,Yes
+5190,BENALEC,BENALEC HOLDINGS BERHAD,Construction,Main Market,0.145,-9.65,-16.36,No,No,No,No,Yes,No,No,No
+0165,XOX,XOX BHD,Telecommunications & Media,Ace Market,0.105,-1.40,-16.40,No,No,No,No,No,No,No,No
+7188,BTM,BTM RESOURCES BERHAD,Industrial Products & Services,Main Market,0.230,-2.35,-16.77,Yes,No,No,Yes,No,No,No,No
+0095,MAG,MAG HOLDINGS BERHAD,Consumer Products & Services,Ace Market,0.190,-13.06,-17.41,No,Yes,Yes,Yes,No,No,No,No
+4634,POS,POS MALAYSIA BERHAD,Transportation & Logistics,Main Market,1.120,-31.53,-17.91,No,No,Yes,Yes,Yes,Yes,No,Yes
+0832EA,HSCEI-2XL,TRADEPLUS HSCEI DAILY (2X) LEVERAGED TRACKER,None,None,1.420,-52.78,-18.26,No,No,No,No,No,No,No,No
+0081,MEGASUN,MEGA SUN CITY HOLDINGS BERHAD,Industrial Products & Services,Ace Market,0.145,-4.02,-18.29,No,No,No,No,No,No,No,No
+5062,HUAYANG,HUA YANG BERHAD,Property,Main Market,0.280,-24.92,-18.32,No,No,No,No,No,No,No,No
+0122,AIM,ADVANCE INFORMATION MARKETING BERHAD,Industrial Products & Services,Ace Market,0.260,-1.38,-18.34,No,Yes,No,No,Yes,Yes,No,No
+7017,KOMARK,KOMARKCORP BERHAD,Industrial Products & Services,Main Market,1.180,-4.98,-18.43,No,No,No,No,No,No,No,No
+0038,ARTRONIQ,ARTRONIQ BERHAD,Industrial Products & Services,Ace Market,0.435,-2.19,-18.49,Yes,No,No,No,Yes,Yes,No,Yes
+9814,BERTAM,BERTAM ALLIANCE BERHAD,Property,Main Market,0.120,-14.10,-18.80,No,No,No,No,No,No,No,Yes
+0082,GPACKET,GREEN PACKET BERHAD,Telecommunications & Media,Main Market,0.445,-6.78,-18.84,No,No,No,No,Yes,No,No,No
+5186,MHB,MALAYSIA MARINE AND HEAVY ENGINEERING HOLDINGS BERHAD,Energy,Main Market,0.460,-23.69,-19.14,No,No,No,No,Yes,No,No,Yes
+5115,ALAM,ALAM MARITIM RESOURCES BERHAD,Energy,Main Market,0.090,-7.09,-20.25,Yes,No,No,No,No,No,No,No
+0148,SUNZEN,SUNZEN BIOTECH BERHAD,Consumer Products & Services,Ace Market,0.175,-3.26,-20.35,No,No,Yes,Yes,No,No,No,No
+0129,SRIDGE,SILVER RIDGE HOLDINGS BHD,Telecommunications & Media,Ace Market,0.530,-1.02,-20.37,Yes,No,No,No,No,No,No,No
+03015,MFGROUP,MANFORCE GROUP BERHAD,Consumer Products & Services,Leap Market,0.235,-1.60,-20.62,No,No,No,No,No,No,No,No
+0174,IDMENSN,IDIMENSION CONSOLIDATED BHD,Technology,Ace Market,0.085,-1.04,-20.77,Yes,No,No,No,Yes,No,No,No
+0173,REV,REV ASIA BERHAD,Telecommunications & Media,Ace Market,0.200,-0.83,-20.81,No,Yes,No,No,No,No,No,Yes
+0145,TFP,TFP SOLUTIONS BERHAD,Technology,Ace Market,0.195,-0.80,-21.59,No,No,No,No,No,No,No,No
+5166,MINDA,MINDA GLOBAL BERHAD,Consumer Products & Services,Main Market,0.065,-3.12,-22.25,No,Yes,Yes,No,No,No,No,No
+0028,SCOPE,SCOPE INDUSTRIES BERHAD,Industrial Products & Services,Ace Market,0.295,-3.48,-22.54,No,No,No,Yes,Yes,Yes,No,Yes
+9776,SMCAP,SINMAH CAPITAL BERHAD,Consumer Products & Services,Main Market,0.385,-8.46,-22.59,No,No,No,No,No,No,No,No
+7315,AHB,AHB HOLDINGS BERHAD,Consumer Products & Services,Main Market,0.200,-2.69,-22.78,No,No,No,No,No,No,No,No
+8435,CEPCO,CONCRETE ENGINEERING PRODUCTS BERHAD,Industrial Products & Services,Main Market,0.800,-24.19,-23.04,No,No,No,No,No,No,No,No
+7223,JADI,JADI IMAGING HOLDINGS BERHAD,Consumer Products & Services,Main Market,0.110,-2.62,-23.78,No,Yes,No,No,No,No,No,No
+5082,CYMAO,CYMAO HOLDINGS BERHAD,Industrial Products & Services,Main Market,0.915,-13.57,-23.81,No,No,No,No,No,No,No,No
+5657,PARKSON,PARKSON HOLDINGS BERHAD,Consumer Products & Services,Main Market,0.165,-36.97,-24.32,No,No,No,No,No,No,No,No
+0140,MACPIE,MACPIE BERHAD,Consumer Products & Services,Ace Market,0.420,-2.69,-24.44,No,No,No,No,No,No,No,No
+6254,PDZ,PDZ HOLDINGS BHD,Transportation & Logistics,Main Market,0.085,-1.15,-25.10,No,No,No,No,Yes,No,No,No
+0051,CUSCAPI,CUSCAPI BERHAD,Technology,Main Market,0.110,-2.13,-25.35,No,No,No,No,No,No,No,No
+4502,MEDIA,MEDIA PRIMA BERHAD,Telecommunications & Media,Main Market,0.275,-12.77,-25.39,No,No,Yes,No,No,No,No,No
+4235,LIONIND,LION INDUSTRIES CORPORATION BERHAD,Industrial Products & Services,Main Market,0.450,-45.70,-25.53,No,No,No,Yes,No,No,No,No
+5172,KSTAR,K-STAR SPORTS LIMITED,Consumer Products & Services,Main Market,0.230,-1.47,-25.77,No,No,No,No,No,No,No,No
+5259,EATECH,E.A.TECHNIQUE (M) BERHAD,Transportation & Logistics,Main Market,0.295,-10.09,-25.88,No,No,No,No,No,No,No,No
+7234,MESB,MESB BERHAD,Consumer Products & Services,Main Market,0.435,-18.72,-26.36,No,No,No,No,No,No,No,No
+5112,THPLANT,TH PLANTATIONS BERHAD,Plantation,Main Market,0.550,-17.57,-26.61,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+5256,REACH,REACH ENERGY BERHAD,Energy,Main Market,0.100,-14.50,-27.35,No,No,No,No,No,No,No,No
+5213,SNTORIA,SENTORIA GROUP BERHAD,Property,Main Market,0.130,-19.23,-28.70,No,No,No,No,No,No,No,No
+7123,PWORTH,PRICEWORTH INTERNATIONAL BERHAD,Industrial Products & Services,Main Market,0.025,-1.45,-29.09,Yes,Yes,No,Yes,No,No,No,No
+4243,WTK,WTK HOLDINGS BERHAD,Industrial Products & Services,Main Market,0.470,-50.64,-29.61,No,No,No,No,No,No,No,No
+7195,COMCORP,COMINTEL CORPORATION BHD,Industrial Products & Services,Main Market,0.130,-2.77,-29.91,Yes,No,No,No,No,Yes,No,No
+6076,ENCORP,ENCORP BERHAD,Property,Main Market,0.230,-28.31,-30.44,No,No,No,No,No,No,No,No
+8745,LEWEKO,LEWEKO RESOURCES BERHAD,Industrial Products & Services,Main Market,0.175,-3.10,-30.97,Yes,No,No,No,Yes,No,No,No
+5924,MTDACPI,MTD ACPI ENGINEERING BERHAD,Construction,Main Market,0.255,-8.10,-31.16,No,No,No,No,No,No,No,No
+0117,SMRT,SMRT HOLDINGS BERHAD,Technology,Ace Market,0.125,-7.85,-31.44,No,Yes,Yes,No,No,Yes,No,No
+7240,VERTICE,VERTICE BERHAD,Consumer Products & Services,Main Market,0.275,-14.19,-31.53,No,No,No,No,No,No,No,No
+7239,SCNWOLF,SCANWOLF CORPORATION BERHAD,Industrial Products & Services,Main Market,0.215,-10.72,-31.54,No,No,No,No,No,No,No,No
+0132,TDEX,TECHNODEX BHD,Technology,Ace Market,0.320,-1.31,-32.78,Yes,No,No,No,No,No,No,No
+0070,MQTECH,MQ TECHNOLOGY BERHAD,Technology,Ace Market,0.140,-1.65,-33.07,No,No,No,Yes,No,No,No,No
+7253,HANDAL,HANDAL ENERGY BERHAD,Energy,Main Market,0.260,-12.37,-34.36,No,No,No,No,No,No,No,No
+0092,MTOUCHE,MTOUCHE TECHNOLOGY BERHAD,Telecommunications & Media,Ace Market,0.070,-2.59,-34.53,No,No,No,No,No,No,No,No
+7192,GOODWAY,GOODWAY INTEGRATED INDUSTRIES BERHAD,Industrial Products & Services,Main Market,0.630,-3.27,-36.30,Yes,Yes,No,No,No,No,No,No
+5178,DYNACIA,DYNACIATE GROUP BERHAD,Industrial Products & Services,Main Market,0.115,-2.58,-36.73,No,No,No,No,Yes,No,No,No
+7245,WZSATU,WZ SATU BERHAD,Industrial Products & Services,Main Market,0.195,-7.75,-36.92,Yes,No,No,No,No,No,No,No
+2771,BSTEAD,BOUSTEAD HOLDINGS BERHAD,Industrial Products & Services,Main Market,0.645,-65.33,-37.55,No,No,No,No,No,No,No,No
+0017,M3TECH,M3 TECHNOLOGIES (ASIA) BERHAD,Telecommunications & Media,Ace Market,0.065,-1.10,-38.03,Yes,Yes,No,No,Yes,Yes,No,Yes
+7176,TPC,TPC PLUS BERHAD,Consumer Products & Services,Main Market,0.260,-11.26,-38.83,No,No,No,No,No,No,No,No
+7013,HUBLINE,HUBLINE BERHAD,Transportation & Logistics,Main Market,0.050,-1.61,-40.22,No,No,No,No,Yes,No,No,No
+7081,PHARMA,PHARMANIAGA BERHAD,Health Care,Main Market,5.120,-55.32,-41.91,Yes,Yes,No,No,Yes,No,No,No
+7184,G3,G3 GLOBAL BERHAD,Consumer Products & Services,Main Market,2.100,-2.95,-42.20,Yes,Yes,No,No,No,No,No,No
+0007,PUC,PUC BERHAD,Telecommunications & Media,Ace Market,0.170,-14.07,-42.76,No,No,No,No,No,No,No,No
+5218,SAPNRG,SAPURA ENERGY BERHAD,Energy,Main Market,0.125,-26.89,-45.58,No,Yes,No,No,No,No,No,No
+7078,AZRB,AHMAD ZAKI RESOURCES BERHAD,Construction,Main Market,0.290,-25.36,-46.96,No,No,No,No,No,No,No,No
+9393,ITRONIC,INDUSTRONICS BERHAD,Technology,Main Market,0.190,-3.46,-49.44,No,No,No,Yes,Yes,No,No,No
+03021,ETH,EQUITIESTRACKER HOLDINGS BERHAD,Consumer Products & Services,Leap Market,0.190,-1.24,-49.92,No,No,No,No,No,No,No,No
+0154,EAH,EA HOLDINGS BERHAD,Technology,Ace Market,0.025,-1.00,-49.95,No,No,No,No,Yes,No,No,Yes
+8338,DATAPRP,DATAPREP HOLDINGS BHD,Technology,Main Market,0.175,-1.52,-50.51,Yes,No,No,No,No,No,No,No
+5079,GETS,GETS GLOBAL BERHAD,Consumer Products & Services,Main Market,2.210,-7.73,-51.50,No,No,No,No,No,No,No,No
+0020,NETX,NETX HOLDINGS BERHAD,Technology,Ace Market,0.150,-1.09,-54.50,Yes,Yes,No,No,Yes,Yes,No,Yes
+5142,WASEONG,WAH SEONG CORPORATION BERHAD,Energy,Main Market,0.810,-46.52,-54.73,No,No,No,No,No,No,No,No
+0005,UCREST,UCREST BERHAD,Technology,Ace Market,0.145,-2.23,-55.76,No,No,No,No,No,No,No,No
+3441,JOHAN,JOHAN HOLDINGS BERHAD,Financial Services,Main Market,0.215,-4.08,-57.52,No,No,No,No,No,No,No,No
+0022,PARLO,PARLO BERHAD,Consumer Products & Services,Ace Market,0.560,-1.75,-58.30,No,No,No,No,No,No,No,No
+0075,LYC,LYC HEALTHCARE BERHAD,Health Care,Ace Market,0.315,-3.18,-63.55,No,No,No,No,Yes,No,No,Yes
+0143,KEYASIC,KEY ASIC BERHAD,Technology,Main Market,0.080,-1.49,-67.54,No,No,No,No,No,No,No,No
+0096,NEXGRAM,NEXGRAM HOLDINGS BERHAD,Telecommunications & Media,Ace Market,0.050,-2.32,-67.90,No,No,No,No,No,No,No,No
+8133,BHIC,BOUSTEAD HEAVY INDUSTRIES CORPORATION BHD,Transportation & Logistics,Main Market,0.600,-38.09,-68.01,Yes,No,No,No,Yes,No,No,No
+5665,SSTEEL,SOUTHERN STEEL BERHAD,Industrial Products & Services,Main Market,0.705,-75.40,-69.81,No,No,No,Yes,No,No,No,No
+0107,EDUSPEC,EDUSPEC HOLDINGS BERHAD,Technology,Ace Market,0.025,-3.45,-82.24,No,No,No,No,No,No,No,No
+0085,MLAB,MLABS SYSTEMS BERHAD,Technology,Ace Market,0.080,-3.70,-82.26,No,No,No,No,No,No,Yes,No
+7212,DESTINI,DESTINI BERHAD,Industrial Products & Services,Main Market,0.295,-17.34,-82.32,No,No,No,No,No,No,No,No
+8834,IREKA,IREKA CORPORATION BERHAD,Construction,Main Market,0.320,-26.50,-82.81,No,No,No,No,No,No,No,No
+8931,JERASIA,JERASIA CAPITAL BERHAD,Consumer Products & Services,Main Market,0.380,-85.95,-83.45,No,No,No,No,No,No,No,No
+5149,TAS,TAS OFFSHORE BERHAD,Transportation & Logistics,Main Market,0.225,-42.97,-86.06,No,No,No,No,No,No,No,No
+5195,CENSOF,CENSOF HOLDINGS BERHAD,Technology,Main Market,0.245,-12.01,-86.19,No,Yes,No,No,Yes,Yes,No,No
+5270,RSENA,RED SENA BERHAD,SPAC,Main Market,0.505,-1.58,-92.76,No,No,No,No,No,No,No,Yes
+5157,SAUDEE,SAUDEE GROUP BERHAD,Consumer Products & Services,Main Market,0.500,-18.98,-94.90,No,No,No,No,No,Yes,Yes,Yes
+5673,IPMUDA,IPMUDA BERHAD,Industrial Products & Services,Main Market,0.695,-42.34,-97.12,Yes,Yes,No,No,No,No,No,No
+7045,SCOMIES,SCOMI ENERGY SERVICES BHD,Energy,Main Market,0.100,-43.76,-99.45,No,No,No,No,No,No,No,No
+03002,REDIDEA,RED IDEAS HOLDINGS BERHAD,Technology,Leap Market,0.190,-4.13,-103.23,No,No,No,No,No,Yes,Yes,Yes
+3891,MUIIND,MALAYAN UNITED INDUSTRIES BERHAD,Consumer Products & Services,Main Market,0.100,-6.59,-103.60,No,Yes,No,No,No,No,No,No
+0068,ASDION,ASDION BERHAD,Technology,Ace Market,0.205,-3.66,-111.12,No,No,No,No,Yes,No,No,No
+0152,DGB,DGB ASIA BERHAD,Technology,Ace Market,0.225,-6.05,-121.00,Yes,Yes,No,No,Yes,Yes,No,No
+0831EA,FANG-1XI,TRADEPLUS NYSE FANG+ DAILY (-1X) INVERSE TRACKER,None,None,1.700,-516.40,-129.93,No,No,No,No,No,No,No,No
+7243,IMPIANA,IMPIANA HOTELS BERHAD,Consumer Products & Services,Main Market,0.085,-12.03,-133.68,No,No,No,No,No,No,No,No
+0098,BAHVEST,BAHVEST RESOURCES BERHAD,Consumer Products & Services,Ace Market,0.480,-14.40,-140.86,No,No,No,No,No,No,No,No
+2739,TECHNAX,SINO HUA-AN INTERNATIONAL BERHAD,Energy,Main Market,0.190,-17.65,-176.50,No,No,No,No,No,No,No,No
+03009,SEERS,SEERS BERHAD,Consumer Products & Services,Leap Market,0.100,-2.07,-206.61,No,No,No,No,No,Yes,No,No
+5078,M&G,MARINE & GENERAL BERHAD,Transportation & Logistics,Main Market,0.075,-7.66,-212.25,No,No,No,No,Yes,Yes,No,Yes
+5099,AIRASIA,AIRASIA GROUP BERHAD,Consumer Products & Services,Main Market,0.885,-90.75,-259.30,No,No,No,No,No,No,No,No
+5268,TOPBLDS,TOP BUILDERS CAPITAL BERHAD,Construction,Main Market,0.120,-12.28,-409.49,Yes,Yes,No,No,No,No,No,No
+0175,HHGROUP,HENG HUAT RESOURCES GROUP BERHAD,Industrial Products & Services,Ace Market,0.345,-45.40,-515.92,No,No,No,No,No,No,No,No
